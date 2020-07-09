@@ -1,9 +1,9 @@
 remote_theme: ronv/sidey
 plugins:
   - jekyll-remote-theme
-site: sidey
+site: Jonathan Gheller
 url: gheller.com
-title: sidey
+title: Jonathan Gheller
 description: Simple and minimalistic jekyll blogging theme.
 twitter:
   username: jgheller
