@@ -51,11 +51,11 @@ Of course, people who run companies often do it for more than profit maximizatio
 
 There are several ways a company can decide to compensate the people they work with.
 
-The company can decide to pay by the estimated value of an output (or the capacity to generate that output) and set up a price. People can apply and whoever passes the bar, will get that compensation. \
- \
+The company can decide to pay by the estimated value of an output (or the capacity to generate that output) and set up a price. People can apply and whoever passes the bar, will get that compensation. 
+ 
 Basecamp is a pioneer of remote work, and favors this model. According to its co-founder DHH: [ Everyone in the same role at the same level is paid the same. Equal work, equal pay(…) This means everyone has the freedom to pick where they want to live, and there’s no penalty for relocating to a cheaper cost-of-living area. We encourage remote and have many employees who’ve lived all over while continuing to work for Basecamp.](https://m.signalvnoise.com/how-we-pay-people-at-basecamp/#:~:text=There%20are%20no%20negotiated%20salaries,Equal%20work%2C%20equal%20pay.&text=Our%20target%20is%20to%20pay,role%20or%20where%20they%20live.)
 
-As we saw, this is clearly better for people in cheaper locations, and only works for people in more expensive locations if the compensation is competitive in their location (Basecamp says it anchors to SF, likely the most expensive location). \
+As we saw, this is clearly better for people in cheaper locations, and only works for people in more expensive locations if the compensation is competitive in their location (Basecamp says it anchors to SF, likely the most expensive location). 
  For the company’s customers and its finance, it seems worse since it's paying the most expensive possible rate. Even if a company can afford the most expensive rate, it is part of its mandate to limit the cost. 
 
  Another option is to look at market compensation for every location they are hiring in, and decide what compensation to offer. In theory, anything better than the best available rate for local talent should work well. Similarly, the company can let the applicant submit their desired compensation, negotiate if it is too high, and meet it if the person is accepted into the company.
