@@ -14,4 +14,4 @@ I like to invest and advise early stage companies, often pre-product. Examples i
 Via the acquisition of Mixtent (Storylane) I spend about 3 years at Facebook, where I helped create the team that launched On This Day, Friendversaries, Year in Review, and other memories related products. 
 
 &nbsp;  
-I started this site to tinker with [Jekyll](https://jekyllrb.com/), and motivate myself to write more about the topics I care about.
+I started this site to tinker with [Jekyll](https://jekyllrb.com/), and motivate myself to write and reflect more about the topics I care about.
