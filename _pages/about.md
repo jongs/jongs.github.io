@@ -26,5 +26,5 @@ I like investing and advising, very early, often pre-product:
     - Reutrrnly 
     - ...among others. 
 
-Via the acquisition of Mixtent (storylane) I spend about 3 yrs at FB. I helped create the team that launched On This Day, Friendversaries, Year in Review, and other memories related products. 
+Via the acquisition of Mixtent (storylane) I spend about 3 years at Facebook. I helped create the team that launched On This Day, Friendversaries, Year in Review, and other memories related products. 
 
