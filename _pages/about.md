@@ -4,7 +4,8 @@ title: Jonathan Gheller
 ---
 
 
-I like to start things. I started and was CEO of Mixtent (Storylane) which was acquired by Facebook and Fashmatch, acquired by Like and soon after, by Google. I also started a healthtech company called Metabolic. 
+I like to start and grow software companies.
+ I started and was CEO of Mixtent (Storylane) which was acquired by Facebook and Fashmatch, acquired by Like and soon after, by Google. I also started a healthtech company called Metabolic. 
 
 I am a non-executive co-founder of Biobridge, a remote cardiac device monitoring company, and Sentinel Fresh, a software company for fresh produce logistics.
 
