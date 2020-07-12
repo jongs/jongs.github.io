@@ -24,7 +24,7 @@ I like investing and advising, very early, often pre-product:
     - Kin insurance 
     - MasAval
     - Pared
-    - Reutrrnly 
+    - Returnly
     - ...among others. 
 
 Via the acquisition of Mixtent (storylane) I spend about 3 years at Facebook. I helped create the team that launched On This Day, Friendversaries, Year in Review, and other memories related products. 
