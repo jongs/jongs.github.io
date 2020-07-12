@@ -4,28 +4,14 @@ title: Jonathan Gheller
 ---
 
 
-I like to start things. 
+I like to start things. I started and was CEO of Mixtent (Storylane) which was acquired by Facebook and Fashmatch, acquired by Like and soon after, by Google. I also started a healthtech company called Metabolic. 
 
-I  love starting companies and running them:
+I am a non-executive co-founder of Biobridge, a remote cardiac device monitoring company, and Sentinel Fresh, a software company for fresh produce logistics.
 
-    - Mixtent (storylane) helped people build online identities. It was acquired by Facebook
-    - Fashmatch helped customers build outfits. It was acquired by Like and later by Google
-    - Metabolic helped people improve their nutrition via digital therapeutics. 
 
-I have also helped start companies as non-executive co-founder:
+I like to invest and advise early stage companies, often pre-product. Examples include Clubhouse, Glossier, Pared, Returnly, among others. 
 
-    - Biobridge: remote monitoring for implantable cardiac monitoring devices
-    - Sentinel Fresh: logistics software for fresh produce 
+Via the acquisition of Mixtent (Storylane) I spend about 3 years at Facebook, where I helped create the team that launched On This Day, Friendversaries, Year in Review, and other memories related products. 
 
-I like investing and advising, very early, often pre-product:
-
-    - Clubhouse 
-    - Glossier
-    - Kin insurance 
-    - MasAval
-    - Pared
-    - Returnly
-    - ...among others. 
-
-Via the acquisition of Mixtent (storylane) I spend about 3 years at Facebook. I helped create the team that launched On This Day, Friendversaries, Year in Review, and other memories related products. 
-
+&nbsp;  
+I started this site to tinker with [Jekyll](https://jekyllrb.com/), and motivate myself to write more about the topics I care about.
