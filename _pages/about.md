@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About Me
+title: Jonathan Gheller
 ---
+
 
 I like to start things. 
 
