@@ -20,7 +20,7 @@ Another example is when we see the opportunity to replicate successful models in
 
 **Market holes don’t necessarily map to business opportunities**
 
-This approach rarely works because voids in the market don’t always reveal the need for new products and companies. Some of those voids are there for a good reason. It may not matter enough to change them, or they might not be changeable with a digital product (they may need public policy changes, for example). 
+This approach rarely works because voids in the market don’t always reveal the need for new products and companies. Some of those voids are there for a good reason. It may not matter enough to change them, or they might not be changeable with a product (they may need public policy changes, for example). 
 
 Filling holes in a market is, in a way, an effort to make the world more coherent, to make it more sensical. But building successful companies is not about completing a picture, it is about solving people’s needs. 
 
@@ -38,11 +38,14 @@ Market holes are often conceptually attractive not just to you, but also to your
 
 The customer will likely love those ideas because they describe a more ideal world where all the pieces fit together and everything makes sense, but when the time comes to put dollars and time against it, if they don’t have a burning need for it now, they will kill your company in slow waiting. 
 
-If you have a lot of pilots signed enthusiastically that don’t turn into contracts or have potential customers that tell you they would love to have your app and then never use it (and have no complaints about how it works), your company may suffer from _market holeitis_.  
+&nbsp;  
 
  
 
 It is very easy for potential customers to falsify their preferences when it makes them feel good about themselves. Everyone loves the idea of a more perfect market, but not everyone needs it. 
+
+For example, if you have a lot of pilots signed enthusiastically that don’t turn into contracts or have potential customers that tell you they would love to have your app and then never use it (and have no complaints about how it works), your company may suffer from _market holeitis_.  
+
 
 There is a big gap between a customer who would pay infinite money for a magical solution and a customer who is willing to commit to a solution today. 
 
