@@ -7,7 +7,7 @@ tags: startups
 ---
 
 
-Asking why some technology or business model does not exist in a specific market is one of the most common but often unfruitful ways to get business ideas. I think of this as trying to fill holes in the market. For the most part, It does not work. 
+Asking why some technology or business model does not exist in a specific market is one of the most common but often unfruitful ways to get business ideas. I think of this as trying to fill holes in the market. For the most part, it does not work. 
 
 It typically goes like this. You use a service - say dentists, taxis, hotels, banks, etc - and realize it could work much better if they applied a piece of technology or a business model used somewhere else. You find a hole in the market offering, a piece missing in the system, which you believe could be filled and represent a startup opportunity.
 
