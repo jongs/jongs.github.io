@@ -6,7 +6,7 @@ summary: Building and working with remote teams
 tags: remote_work 
 ---
 
-I am a big fan of distributed teams. They foster thoughtfulness, reduce drama, improve employer/employee matches, and improve business economics. 
+I am a big fan of distributed teams. They foster thoughtfulness, reduce drama,  and improve business economics and help companies and employees find better matches.
 
 If you are building a remote team, there are three important considerations to think about:
 
