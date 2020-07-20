@@ -44,7 +44,7 @@ In the ideal case, you have a co-founder/early team member that is Not based and
 
 In theory, you want a fully distributed workforce, in practice, talented people create clusters around them and companies are more likely to end up with a decentralized approach (one that accepts nodes).
 
-Still, you should aim to be as distributed as possible The best way is to get more talent nodes going: after one node is blossoming, find another talent-anchor somewhere else, and repeat the process. 
+Still, you should aim to be as distributed as possible the best way is to get more talent nodes going: after one node is blossoming, find another talent-anchor somewhere else, and repeat the process. 
 
 &nbsp;  
 
@@ -72,7 +72,7 @@ Often people explore some or all of these options:
 &nbsp;  
 
 
-Remote contractors with no equity, full or part-time are Not part of your team and as such, they should only work on peripheral tasks. Agencies are not part of your team. They can own full projects, but they need to be easily run independently of the core product.
+Remote contractors with no equity, full or part-time are not part of your team and as such, they should only work on peripheral tasks. Agencies are not part of your team. They can own full projects, but they need to be easily run independently of the core product.
 
 The only way to build an actual team is to have them full-time, under contract, or employment, but with equity or some form of profit sharing. Under these conditions, they are part of your team. I don’t see how they can be in any other circumstance. 
 
