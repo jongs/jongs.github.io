@@ -18,9 +18,9 @@ If you are building a remote team, there are three important considerations to t
 
 
 *   Discourage people from randomly sharing ideas.  Encourage people to think things through, and put it in writing
-*   Discourage interruptions. Encourage set times for coordination. 
+*   Discourage interruptions. Encourage set times for coordination
 *   Set up clear social rules for comms channels: What to use for urgent comms, what to use for non-urgent comms
-*   Make sure everyone knows what are the top 1-3 priorities so everyone works on the most important thing. It is easy to drift apart in remote settings. 
+*   Make sure everyone knows what are the top 1-3 priorities so everyone works on the most important thing. It is easy to drift apart in remote settings
 
 &nbsp;  
 
@@ -42,7 +42,7 @@ To run a distributed organization well, it needs to be designed from the ground 
 
 In the ideal case, you have a co-founder/early team member that is Not based and it is not interested in moving to SV, or equivalent tech hotspot.  They could work at FB, GOOG, or any amazing startup if they wanted, but they want to stay close to home. This person is key because it can create a cluster around her (talent attracts talent). 
 
-In theory, you want a fully distributed workforce, in practice, talented people create clusters around them and companies are more likely to end up with a decentralized approach (one that accepts nodes)
+In theory, you want a fully distributed workforce, in practice, talented people create clusters around them and companies are more likely to end up with a decentralized approach (one that accepts nodes).
 
 Still, you should aim to be as distributed as possible The best way is to get more talent nodes going: after one node is blossoming, find another talent-anchor somewhere else, and repeat the process. 
 
