@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to expect
-description: What to expectr
+description: What to expect
 summary: What to expect
 tags: introspections 
 ---
