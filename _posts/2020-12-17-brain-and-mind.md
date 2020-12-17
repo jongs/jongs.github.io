@@ -238,7 +238,7 @@ It seems something similar (or the same thing at a different level) happens with
 
 The question then is, how should we think about symbols within matter: the brain is a physical thing, symbols seem like they are not, so how do they co-exist? What is the nature of their complementarity?
 
-Howard H. Patee was fascinated by this difference, albeit on a scale much smaller than the brain. He wondered how the DNA, a simple, linear molecular structure could function as symbolic information that controls super complex enzyme dynamics that fully comply with the laws of physics. 
+Howard H. Pattee was fascinated by this difference, albeit on a scale much smaller than the brain. He wondered how the DNA, a simple, linear molecular structure could function as symbolic information that controls super complex enzyme dynamics that fully comply with the laws of physics. 
 
 In building a cell, the symbolic sequence in the genetic DNA produces other strings of polypeptides that are precursors to proteins. Eventually, the symbols sort of getting lost, and we find enzymes, folding themselves into machines, and then into proteins that then turn into membranes, muscles, etc. This assembly process is not symbolic; it harnesses the laws of motion that come about from the constraints and limitations established by the symbols. Of course, as we move further up, the proteins themselves serve as constraints for higher levels of biological organizations.
 
