@@ -286,7 +286,7 @@ We can also see hierarchical levels of organization in all biological systems, f
 
 For the brain, the hierarchical structure and evolutionary process mean that the brain does not need to build explicit meanings for everything from scratch. Like the cell, the brain is already endowed by evolutions with hierarchies of functions that only need to be constrained or harnessed to acquire meaning.
 
-For Pattee, the self, whether a cell or a human, is an individual thanks to the symbols that serve memory patterns in its genes and its brain. These subjective memories (subjective in that they are a selection by a subject from a pool of many options) define the self. 
+For Pattee, the self, whether a cell or a human, is an individual thanks to the symbols that serve as memory patterns in its genes and its brain. These subjective memories (subjective in that they are a selection by a subject from a pool of many options) define the self. 
 
 Another critical aspect of the self: in the context of evolution, is open to change. For evolution to work, the symbolic instruction needs a material structure that contains all the processes for the construction of enzymes and what follows but also needs instructions to copy the symbol itself, all following the laws of motion. 
 
