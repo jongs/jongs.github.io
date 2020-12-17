@@ -314,7 +314,7 @@ So to Hofstadter, symbols in the brain are perceived by symbols, until it become
 
 In a multi-layer system, where each module generates its own set of symbols, higher-level cortical modules create symbols to manipulate symbols, turning into a self-sustaining self-referential loop, which becomes our mind’s experience. 
 
-So, one way to think about the mind is as an infinite, self-sustainable loop. Layered modules bubble up symbols to be used by other modules, moving up a layer stack. 
+So, one way to think about the mind is as an infinite, self-sustainable loop. Layered modules bubble up symbols to be used by other modules, moving up a layer in the stack. 
 
 The duality between the brain and the mind is complementary since we can’t explain one with the other. Not because the mind exists outside of physics, but because symbols and the laws of motion speak different languages. 
 
