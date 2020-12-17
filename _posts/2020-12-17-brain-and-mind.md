@@ -306,9 +306,9 @@ So the self at the cell level is a type of loop. Douglas Hofstadter believes tha
 
 The “I,” according to Hofstadter, is the brains’ strangest and most complex symbol. He thinks of it as an infinite feedback loop. The same way a camera hooked to a TV and pointing at it would generate an infinite self-referential loop that somehow stabilizes into a new image, the multiple layers of our brain creating rules and symbolic representations of lower layers created a feedback loop that is self-referential and stable.
 
-Or think of the feedback loop and echo in an auditorium. The “i” is no more physically identifiable than that auditory feedback loop, and yet, it feels very real. 
+Or think of the feedback loop and echo in an auditorium. The “I” is no more physically identifiable than that auditory feedback loop, and yet, it feels very real. 
 
-Of course, the “i” does not come about in the brain due to video of audio loops. To Hofstadter, it comes about thanks to our ability to think, which is a way of saying possessing and being able to manipulate an extensive repertoire of symbols. 
+Of course, the “I” does not come about in the brain due to video of audio loops. To Hofstadter, it comes about thanks to our ability to think, which is a way of saying possessing and being able to manipulate an extensive repertoire of symbols. 
 
 So to Hofstadter, symbols in the brain are perceived by symbols, until it becomes a stable, self-referential symbol. 
 
