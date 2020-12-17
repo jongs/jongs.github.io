@@ -315,3 +315,5 @@ The duality between the brain and the mind is complementary since we can’t exp
 
 We can’t tell how DNA, the core code of life came about, and we know even less how the mind emerges from the animal brain, but at least we know that is perfectly reasonable, and likely necessary for the separation of object and subject, and in our case brain and mind, to co-exist.
 
+
+
