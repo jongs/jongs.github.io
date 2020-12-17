@@ -308,7 +308,7 @@ The “I,” according to Hofstadter, is the brains’ strangest and most comple
 
 Or think of the feedback loop and echo in an auditorium. The “I” is no more physically identifiable than that auditory feedback loop, and yet, it feels very real. 
 
-Of course, the “I” does not come about in the brain due to video of audio loops. To Hofstadter, it comes about thanks to our ability to think, which is a way of saying possessing and being able to manipulate an extensive repertoire of symbols. 
+Of course, the “I” does not come about in the brain due to video of audio loops. To Hofstadter, it comes about thanks to our ability to think. For Hofstadter, thinking is a way of possessing and being able to manipulate an extensive repertoire of symbols. 
 
 So to Hofstadter, symbols in the brain are perceived by symbols, until it becomes a stable, self-referential symbol. 
 
