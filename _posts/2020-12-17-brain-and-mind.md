@@ -21,7 +21,8 @@ Some people believe this deep subjective experience we call our mind is nothing 
 Others, of more classical inclination, believe the mind is a real, subjective, likely immaterial thing. 
 
 The subjective experience certainly feels real to each of us. It seems very hard to suppose each subjective experience has a perfect correlation in a material representation in the brain. What it is and how it relates to the material brain is a question with many answers. Still, to those who believe this, there is an equally heavy burden of proof on those who think the mind experience is illusory or perfectly representable in organic - brain - matter. 
-
+&nbsp;  
+&nbsp;  
 **I**
 
 One of the most exciting things in brain science is our ability to prove a brain with microelectrodes, while the person is perfectly conscious and awake. In doing so, we can see people act or experience things as a direct result of these electrical stimulations. Indeed, there are many experiments where simple sensations – say a flash of the color blue, or the smell of roses – have been generated via direct stimulation of the correct brain region. 
@@ -54,7 +55,8 @@ Now, let’s assume she finally can leave the room and, once outside, sees the c
 Paul Churchland, who I think first came up with Mary's scenario, asks: Has Mary learned anything new about color by looking at the color red? Maybe she didn’t learn anything new but rather now knows the same thing, not merely by description, but also by experience. Or perhaps she learned how to recognize and imagine the color red, but not really learned a new thing. 
 
 Maybe, the mind is whatever happens in the brain, and that is all there is to it.
-
+&nbsp;  
+&nbsp;  
 **II**
 
 If there is such a thing as a mind, it is likely not what it seems.
@@ -110,7 +112,8 @@ What’s most puzzling to me is why we can’t detect our own confabulations.
 Some behaviorist scientists that focus on evolutionary explanations have pointed out that the best way to convince others of our dispositions (say honest or friendly), is to convince ourselves first. To be great liars, we need first to be great at lying to ourselves. 
 
 Perhaps this idea that the mind is the executive in chief of our lives might be an illusion. Maybe what we think as the conscious mind is not animating the brain’s activity, but rather is at its peripheries, creating lies as we go, to make sense of it all.
-
+&nbsp;  
+&nbsp;  
 **III**
 
 I am now considering having breakfast. I am trying to figure out if I am hungry enough to eat or if I should wait a bit longer. This thought depends on other mental states: my belief that there is a certain level of hunger that justifies eating, which in turn relies on my belief that feeling some level of hunger is not bad, or perhaps even good, which in turn depends on a belief I hold regarding the role of rationally in my experience of bodily sensations, and so on, and so forth. 
@@ -153,7 +156,8 @@ More importantly, it would seem my intention to write precedes the casual chain 
 Is hard to imagine a state of consciousness that does not involve subjective intentionality. As I tap this keyboard and look at the words that appear on my laptop screen, there are multiple perceptual systems engaged in my brain, yet it is my intentionality, experienced somehow in a unified manner, that tells me this is a computer. 
 
 The mind seems to be symbolic and meaningful; it requires a material subtract but might not be determined by it. 
-
+&nbsp;  
+&nbsp;  
 **IV**
 
 We know that what we perceive externally or internally is not necessarily what is happening. Countless visual illusions show how our perception can be tricked. There is also ample evidence that our brain readouts say little about how that computation was performed. In fact, we know that the brain might deliberately lie about how our thoughts were constructed. 
@@ -189,7 +193,8 @@ This means there are multiple viable paths and possible instantiations of consci
 It is not impossible to shut down consciousness on a living person. If enough subcortical modules are damaged, those that control our sensorimotor experience, then we go into a coma. Yet, an experience limited to the sensorimotor realm can't quite be thought of as the experience of having a mind. 
 
 It seems then that the interplay of emotions and feeling on one end, and cognition on the other, that is, the interplay between cortical and subcortical modules of the brain, make up the experience of consciousness. 
-
+&nbsp;  
+&nbsp;  
 **V**
 
 Plenty of our brain wiring is shared with the rest of the animal kingdom. The basic equipment is designed to sense and move around in the world. For us humans, much of this rests on the subcortical regions. Looking at brain injury patients we have seen evidence that a sense of self is developed deep in these structures we share with other animals. 
@@ -213,7 +218,8 @@ We experience the modularity and layered architecture of the brain in everyday l
 We don’t fully understand how memory works, so we don’t quite know how that memory of buying a puppy gets stored. But stored it is. However it physically gets stored, the question for the beginning of the text remains: how is this subjective experience associated with buying that puppy possible in the context of the material brain?
 
 We want to know how the physical experience of caressing the fur of the puppy ends up feeling a certain way to us, how positive emotions evolve into complex feelings of love and attachment, and how an idea of what that puppy means to us comes up. How do we go from physical objects touching to the firing of neurons into patterns, to the subjective feeling of self experiencing what it is like to hold that puppy in our hands? 
-
+&nbsp;  
+&nbsp;  
 **VI**
 
 The brain runs on physics and chemistry, our mind on a system of symbols. The brain is clearly there, yet there is no clear path that connects the symbolic representation of the mind to the brain’s physics. It seems then that we need to start thinking about how these two seemingly incompatible systems can coexist.
@@ -248,7 +254,7 @@ The laws of motion are said to do a one-to-one mapping whereas the hereditary pr
 
 Pattee was interested in the physics of symbols, as manifested in the DNA. He argued (building on work Von Neumann had done on logical requirements to create an automaton) that the hereditary process worked like a language: the genetic code is the rules of syntax while the protein foldings that resulted from those rules are its meaning or semantics.
 
- \
+ 
 This symbolic description can be read two ways: syntactically to be transmitted, or semantically to control the constructions of enzymes and proteins. 
 
 For Pattee, matter can function as a symbol insofar as an agent uses it to constrain dynamics that follow the laws of physics. For him, a symbol is a local and discrete structure that triggers an action, usually related to a system more complex than the system itself. 
@@ -264,7 +270,8 @@ Another important property of symbols like measurements, codes, rules, and descr
 In complex systems like our cells and our brain, we see hierarchies delineated by the rules by which they interpret or give meaning to a lower layer. The better the rule, the more selective it is in measuring the element its constraints. Following an example by Pattee, a good stoplight does not measure all the details of traffic patterns, but only the minimum to make traffic flow faster and safer. As Patee points out, this simplification or loss of detail of the rule also makes it hard to understand its origin. 
 
 We don’t know yet how matter becomes symbolic. But we know two things: first, matter can embody symbols which can, in turn, unlock dynamics that are perfectly lawful from the perspective of physics. We also see that symbolic representation of heredity, in the separation of the phenotype (the description in symbols) and genotype (the actual build-up of those instructions)t is a logical and physical requirement for life and evolution. 
-
+&nbsp;  
+&nbsp;  
 **VII**
 
 Patee argued that the symbol-matter problem, which required a clean cut between object and subject, exists on all levels, from the origin of life all the way to the human mind. From phenotype to genotype, to the symbol reference problem in cognitive science, to the mind-brain problem we are interested in here. 
