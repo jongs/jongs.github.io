@@ -267,14 +267,14 @@ Think of a computer: clearly, physical switching networks both follow physical l
 
 Another important property of symbols like measurements, codes, rules, and descriptions is that by selecting one of many things, they ignore most aspects of a system. Von Neumann pointed out how a measurement or description that operates at the same detail as the system is describing becomes indistinguishable from the system itself. 
 
-In complex systems like our cells and our brain, we see hierarchies delineated by the rules by which they interpret or give meaning to a lower layer. The better the rule, the more selective it is in measuring the element its constraints. Following an example by Pattee, a good stoplight does not measure all the details of traffic patterns, but only the minimum to make traffic flow faster and safer. As Patee points out, this simplification or loss of detail of the rule also makes it hard to understand its origin. 
+In complex systems like our cells and our brain, we see hierarchies delineated by the rules by which they interpret or give meaning to a lower layer. The better the rule, the more selective it is in measuring the element its constraints. Following an example by Pattee, a good stoplight does not measure all the details of traffic patterns, but only the minimum to make traffic flow faster and safer. As Pattee points out, this simplification or loss of detail of the rule also makes it hard to understand its origin. 
 
 We don’t know yet how matter becomes symbolic. But we know two things: first, matter can embody symbols which can, in turn, unlock dynamics that are perfectly lawful from the perspective of physics. We also see that symbolic representation of heredity, in the separation of the phenotype (the description in symbols) and genotype (the actual build-up of those instructions)t is a logical and physical requirement for life and evolution. 
 &nbsp;  
 &nbsp;  
 **VII**
 
-Patee argued that the symbol-matter problem, which required a clean cut between object and subject, exists on all levels, from the origin of life all the way to the human mind. From phenotype to genotype, to the symbol reference problem in cognitive science, to the mind-brain problem we are interested in here. 
+Pattee argued that the symbol-matter problem, which required a clean cut between object and subject, exists on all levels, from the origin of life all the way to the human mind. From phenotype to genotype, to the symbol reference problem in cognitive science, to the mind-brain problem we are interested in here. 
 
 The argument here is that the key sign of biological activity is the existence of efficient and stable codes. Pattee model sees the cell as an agent that uses or interprets information for its survival. His point is that this process suggests a cut between subjective and objective, way before human consciousness and the experience of the mind.
 
