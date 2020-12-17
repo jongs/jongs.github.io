@@ -318,4 +318,4 @@ So, one way to think about the mind is as an infinite, self-sustainable loop. La
 
 The duality between the brain and the mind is complementary since we can’t explain one with the other. Not because the mind exists outside of physics, but because symbols and the laws of motion speak different languages. 
 
-We can’t tell how DNA, the core code of life came about, and we know even less how the mind emerges from the animal brain, but at least we know that is perfectly reasonable, and likely necessary for the separation of object and subject, and in our case brain and mind, to co-exist.
+We can’t tell how DNA came about, and we know even less about how the mind emerges from the animal brain, but at least we know that is perfectly reasonable, and likely necessary for a break between object and subject, and in our case brain and mind, to co-exist.
