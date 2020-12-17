@@ -6,8 +6,6 @@ summary: an intro to the brain and mind duality problem
 tags: science
 ---
 
-# Brain and Mind
-
 We have many reasons to be optimistic about our increased understanding of the brain. We have certainly learned quite a bit already, and current scientific efforts are likely to reveal much more in the future. 
 
 The brain speaks the language of nature: biology, chemistry, and physics. Our tools for understanding the workings of nature are improving, and so we continue to make steady progress. In this journey, the brain is slowly revealing its secrets. 
