@@ -10,7 +10,7 @@ We have many reasons to be optimistic about our increased understanding of the b
 
 The brain speaks the language of nature: biology, chemistry, and physics. Our tools for understanding the workings of nature are improving, and so we continue to make steady progress. In this journey, the brain is slowly revealing its secrets. 
 
-Some of the brain’s output has the making of nature: chemical reactions, electricity, mechanics. Other outputs, however, seem different:  its thoughts, intentions, reasons, and fantasies, the way things feel, smell, taste, and sound to us -  what we usually refer to as our mind - appear to be different types than say, the movement of my arm or the beating of my heart. 
+Some of the brain’s output have the making of nature: chemical reactions, electricity, mechanics. Other outputs, however, seem different:  its thoughts, intentions, reasons, and fantasies, the way things feel, smell, taste, and sound to us -  what we usually refer to as our mind - appear to be different types than say, the movement of my arm or the beating of my heart. 
 
 For many, the hope is that a deeper understanding of the brain will reveal the mind’s functioning. Those who believe this expect to map what we think, feel, and dream to the brain’s specific activities. This would provide a correlation between the mind’s subjective experience and the objective activities in the brain. 
 
