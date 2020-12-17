@@ -288,7 +288,7 @@ For the brain, the hierarchical structure and evolutionary process mean that the
 
 For Pattee, the self, whether a cell or a human, is an individual thanks to the symbols that serve as memory patterns in its genes and its brain. These subjective memories (subjective in that they are a selection by a subject from a pool of many options) define the self. 
 
-Another critical aspect of the self: in the context of evolution, is open to change. For evolution to work, the symbolic instruction needs a material structure that contains all the processes for the construction of enzymes and what follows but also needs instructions to copy the symbol itself, all following the laws of motion. 
+Another critical aspect of the biological self: it needs to be able to change. For evolution to work, the symbolic instruction needs a material structure that contains all the processes for the construction of enzymes but also it needs instructions to copy the symbol itself, all following the laws of motion. 
 
 We don't know how these patterns or symbols come about. Francis Cricked called the DNA a frozen accident, and there is evidence the symbols are fairly arbitrary. The same is likely true with the brain, and its formidable plasticity seems to corroborate this. 
 
