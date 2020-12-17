@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Brain and Mind
-description: summary and analysis of what I have read on the brain and the mind
-summary: an intro to the brain and mind duality problem
+description: What I have read on the brain and the mind
+summary: An intro to the brain and mind duality problem
 tags: science
 ---
 
