@@ -16,3 +16,7 @@ Via the acquisition of Mixtent (Storylane) I spend about 3 years at Facebook, wh
 
 &nbsp;  
 I started this site to tinker with [Jekyll](https://jekyllrb.com/), and motivate myself to write and reflect more about the topics I care about.
+
+&nbsp;  
+&nbsp;  
+[@jgheller](https://twitter.com/jgheller) on Twitter
