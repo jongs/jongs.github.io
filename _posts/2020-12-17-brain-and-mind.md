@@ -290,7 +290,7 @@ For Pattee, the self, whether a cell or a human, is an individual thanks to the 
 
 Another critical aspect of the biological self: it needs to be able to change. For evolution to work, the symbolic instruction needs a material structure that contains all the processes for the construction of enzymes but also it needs instructions to copy the symbol itself, all following the laws of motion. 
 
-We don't know how these patterns or symbols come about. Francis Cricked called the DNA a frozen accident, and there is evidence the symbols are fairly arbitrary. The same is likely true with the brain, and its formidable plasticity seems to corroborate this. 
+We don't know how these patterns or symbols come about. Francis Crick called the DNA a frozen accident, and there is evidence the symbols are fairly arbitrary. The same is likely true with the brain, and its formidable plasticity seems to corroborate this. 
 
 Yet, the brain is categorically different than any other collection of cells. For all its similarities, the brain is very different from the DNA and the hereditary process in many ways. 
 
@@ -302,7 +302,7 @@ The hereditary process shows us that to make a self; we need parts that implemen
 
 Pattee gives us a framework that helps us see how symbols can be embodied in matter and how symbols and matter can cooperate in a complementary fashion in the same system. With this framework, we can say the mind’s subjective experience does not violate physics laws. At the beginning of life, we can also say that at the core of what differentiates living and non-living matter, the break between the objective and subjective takes place. Symbols are at the root of all that is living. 
 
-So the self at the cell level is a type of loop. Douglas Hofstadter believes that the “I” or The self we experience objectively is also a type of self-referential loop. He called it a strange loop.
+So the self at the cell level is a type of loop. Douglas Hofstadter believes that the “I” or The self or consciousness we experience subjectively is also a type of self-referential loop. He called it a strange loop.
 
 The “I,” according to Hofstadter, is the brains’ strangest and most complex symbol. He thinks of it as an infinite feedback loop. The same way a camera hooked to a TV and pointing at it would generate an infinite self-referential loop that somehow stabilizes into a new image, the multiple layers of our brain creating rules and symbolic representations of lower layers created a feedback loop that is self-referential and stable.
 
