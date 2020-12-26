@@ -83,7 +83,7 @@ As if this wasn't surprising enough, a fascinating part comes when the subject i
 
 Another interesting experiment, this time applied to memory: 
 
-Dr. Claparède visits a patient with amnesia. She never recalls meeting him, and he must re-introduce himself every time. One day, Dr. Claparède reaches out to shake her hand as usual, but this time, he concealed a pin in his hand. Naturally, the patient withdrew her hand in pain. 
+Dr. Claparède visits a patient with amnesia. The patient never recalls meeting him, and he must re-introduce himself every time. One day, Dr. Claparède reaches out to shake her hand as usual, but this time, he concealed a pin in his hand. Naturally, the patient withdrew her hand in pain. 
 
 On the next visit, the patient as usual failed to recognize him, but this time, she refused to shake his hand. 
 
