@@ -10,7 +10,7 @@ tags: introspections
 
 I was born and raised in Venezuela. Twenty-plus years of Hugo Chavez's Chavismo left me left me with a deep suspicion of power. 
 
-Add to that Trump’s presidency (and the constant parade of politicians consumed by power before that), the myriad of corrupt and extractive corporate and financial tycoons, and the yearly news of disingenuous religious leaders and the suspicious only grows stronger.
+Add to that Trump’s presidency (and the constant parade of politicians consumed by power before that), the myriad of corrupt and extractive corporate and financial tycoons, and the yearly news of disingenuous religious leaders and the suspicion only grows stronger.
 
 I used to deeply wish for good men to take positions of power - to some degree I still do. For the longest time, I personally wanted to take on roles of power because, naturally, I think of myself as a good person and thought I could do good.  
 
@@ -36,7 +36,7 @@ For Havel, the conclusion is that power is a“ job for modest people, for peopl
 
 How do people accumulate power? 
 
-The first  way is physical violence, which is the oldest and most enduring reason. It is also decreasingly important, as the credibility of threats are easier to ascertain and economic interdependence lower the payout of violence. 
+The first way is physical violence, the oldest and most enduring reason, yet decreasingly important, as physical threats are easier to ascertain and economic interdependence lower the payout of violence. 
 
 Persuasion and narrative control are also as old as power and growing in importance as new forms of communication provide a global audience.
 
