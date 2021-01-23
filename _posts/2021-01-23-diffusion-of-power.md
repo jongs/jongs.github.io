@@ -8,11 +8,11 @@ tags: introspections
 
 **I**
 
-I was born and raised in Venezuela. Twenty-plus years of Chavismo left me with a deep suspicion of power. 
+I was born and raised in Venezuela. TTwenty-plus years of Hugo Chavez's Chavismo left me left me with a deep suspicion of power. 
 
 Add to that Trump’s presidency (and the constant parade of politicians consumed by power before that), the myriad of corrupt and extractive corporate and financial tycoons, and the yearly news of disingenuous religious leaders and the suspicious only grows stronger.
 
-I used to deeply wish for good men to take positions of power - to some degree I still do -. For the longest time, I personally wanted to take on roles of power because, naturally, I think of myself as a good person and thought I could do good.  
+I used to deeply wish for good men to take positions of power - to some degree I still do. For the longest time, I personally wanted to take on roles of power because, naturally, I think of myself as a good person and thought I could do good.  
 
 As time passes, I find myself increasingly uninterested by the idea of having power and, more broadly, wishing for all these power positions to concentrate less power. I am increasingly interested in diffusing power, as I believe it to be a very effective way to do good.
 
@@ -64,7 +64,7 @@ As anyone who has kids knows, few and simple rules, which are easy to follow and
 
 **III**
 
-The right amount of power is like water. Too much power and we get ice; a static system that can’t change. Complete dissipation of power and we get a gas; the random bouncing of particles that can’t coordinate. We want power to be, as the Santa Fe Institute crew says, at the edge of chaos; sufficiently well structured that organization and coordination is possible, but suffictly loose that change and learning is constantly happening.
+The right amount of power is like water. Too much concerntration of power and we get ice; a static system that can’t change. Complete dissipation of power and we get a gas; the random bouncing of particles that can’t coordinate. We want power to be, as the Santa Fe Institute crew says, at the edge of chaos; sufficiently well structured that organization and coordination is possible, but suffictly loose that change and learning is constantly happening.
 
 I think we are coming out of an ice age of power. My fellow countryman Moises Naim calls this [the end of power](https://www.amazon.com/End-Power-Boardrooms-Battlefields-Churches/dp/1469031205). Big nations-states are breaking; since WWII, the number of nation-states tripled. Minority parties continue to grow in number and representation in Europe. We have more primaries than ever in the U.S. Around the globe, there are very few dictators left .
 
@@ -96,7 +96,13 @@ So to me, this is very practical. Here are some examples of what I mean by that:
 
 Stable foundation: [BTC](https://squarecrypto.org/bitcoin.pdf). I believe Hayek when he said prices transmit information. For an economy to work we need prices to do their work. The concentration of monetary policy power in the hand of a selected few nations had led to the abuse of money via debasing. BTC solves for trust and predictability, taking control from the few, and giving it to anyone who wants to participate.
 
-Surprising surface: Fintech generally is an example here. In particular,  [Aven](https://aven.com/) invented the first asset-backed credit card. Wealth is a virtuous cycle: it accumulates, protecting against inflation, and bringing access to the debt via collateralizing the assets. People without assets are left out. With Aven, people can use a house or a car to get competitive credit terms, levering the playing field.  
+Surprising surface: Fintech generally is an example here. In particular,  [Aven](https://aven.com/) invented the first asset-backed credit card. Wealth is a virtuous cycle: it accumulates, protecting against inflation, and bringing access to the debt via collateralizing the assets. People without assets are left out. With Aven, people can use a house or a car to get competitive credit terms, leveling the playing field.  
+
+<span style="text-decoration:underline;">Commerce</span>
+
+Foundation: The best counterbalance to the increasing concentration of power of Amazon is not legislation, and is not going back to the past; is [Shopify](shopify.com). Allowing more sellers to go independent with a business model that is transparent and aligned helps diffuse power in ecommerce. Shopify is the main component, but there are many more: there are many other pieces where  it is hard for an independent seller to compete with Amazon and where other companies can help by setting the right foundations: for example, [Returnly](https://returnly.com/)  provides an Amazon level platform for returning products to any seller. 
+
+Surface: Beauty is probably the commerce category that has the most influence on power dynamics. What we deem beautiful influences identities and notions of self-worth. [Glossier](https://www.glossier.com/), a direct to consumer, customer driven beauty brand, that makes it ok to be yourself, is transforming and diffusing power dynamics around appearances. 
 
 <span style="text-decoration:underline;">Social</span>
 
@@ -108,18 +114,13 @@ Surface: Most social networks have a content wedge. Sure, Facebook and Twitter s
 
 Foundation: A ton of creative tools are native desktop apps, that need the computational power and low latency of the edge to get things done. The creation, maintenance and distribution of these software is expensive, and so power concentrates in a few companies.  [WEBGL](https://get.webgl.org/) is a key component in rendering graphics on the browser (the browser in turn is one of the greatest power diffusers in technology). The better an open standard like WEBGL gets, the more surprising things can be built without the permission of those in power
 
-Surface:  [Figma](figma.com) is the harbinger of surprising apps built on WEBGL. A decade ago, It would have been impossible to image Photoshop on the web, now all sorts of surprising new things are possible because WEBGL has improved dramatically ( also, paired with the improvements in  [WEBRTC](https://webrtc.org/), real time collaboration becomes possible) . 
+Surface:  [Figma](figma.com) is the harbinger of surprising apps built on WEBGL. A decade ago, It would have been impossible to imagine Photoshop on the web, now all sorts of surprising new things are possible because WEBGL has improved dramatically ( also, paired with the improvements in  [WEBRTC](https://webrtc.org/), real time collaboration becomes possible) . 
 
 It is also interesting to think of new powerful platforms disrupting older ones. An example: digital audio workstations are desktop bound and expert tailored; things like [Bounce](https://bounce.town/)  can use the app store, which competes with the desktop, to make DAWs more accessible in surprising and cool ways. 
-
-<span style="text-decoration:underline;">Commerce</span>
-
-Foundation: The best counterbalance to the increasing concentration of power of Amazon is not legislation, and is not going back to the past; is [Shopify](shopify.com). Allowing more sellers to go independent with a business model that is transparent and aligned helps diffuse power in ecommerce. Shopify is the main component, but there are many more: there are many other pieces where  it is hard for an independent seller to compete with Amazon and where other companies can help by setting the right foundations: for example, [Returnly](https://returnly.com/)  provides an Amazon level platform for returning products to any seller. 
-
-Surface: Beauty is probably the commerce category that has the most influence on power dynamics. What we deem beautiful influences identities and notions of self-worth. [Glossier](https://www.glossier.com/), a direct to consumer, customer driven beauty brand, that makes it ok to be yourself, is transforming and diffusing power dynamics around appearances.  
+ 
 
  These are just a few which are already happening. 
 
-There are many new frontiers opening up for power diffusion: new charter cities to compete with old ones, new voting mechanism like quadratic voting to better reflect the preferences of individual in collective decisions, more radical market solutions to property (I like [Weyl’s idea](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy/dp/0691177503) of having houses in an open market, priced by the owner to minimize tax but also to minimize odds it having someone else buy the house From her!). I even think of brain-computer  interfaces as a power diffusion technology, in that it can counterbalance the growing power of AI systems. 
+There are many new frontiers opening up for power diffusion: new charter cities to compete with old ones, new voting mechanism like quadratic voting to better reflect the preferences of individual in collective decisions, more radical market solutions to property (I like [Weyl’s idea](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy/dp/0691177503) of having houses in an open market, priced by the owner to minimize tax but also to minimize odds of having someone else buy the house From her!). I even think of brain-computer  interfaces as a power diffusion technology, in that it can counterbalance the growing power of AI systems. 
 
 This idea of diffusion of power informs an important part of my intellectual curiosity, personal values, and work interests. Pursuing the diffusion of power is an interesting, important, and profitable endeavor. 
