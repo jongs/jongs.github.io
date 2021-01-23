@@ -22,7 +22,7 @@ Havel reflects on how the last two tend to overcrowd the first. He was trying to
 
 As president of Czechoslovakia, every day afforded Havel the opportunity to change the world for the better, affirming his identity as useful and loved by many.
 
-Havel was indeed an essential man: he did not sit in waiting rooms or traffic waiting for the red light to change; he did not cook his meals or dial for calls. None of these things were more important than his daily work of running an entire nation. 
+Havel was indeed an essential man: he did not sit in waiting rooms or traffic waiting for the red light to change; he did not cook his meals or place his own calls. None of these things were more important than his daily work of running an entire nation. 
 
 These privileges are all fine and well. The challenge is: can we tell when someone crosses the line, from sensical privileges to abusive? There isn’t a straightforward, hard-line. More importantly, can the person in power tell? Well, that’s even harder.
 
