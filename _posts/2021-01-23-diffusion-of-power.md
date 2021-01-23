@@ -28,7 +28,7 @@ These privileges are all fine and well. The challenge is: can we tell when someo
 
 Havel realized that while power affords self-affirmation, in the process, it robs people of their identity. The person who first wanted to limit the influence of power was changed by power. As he sees it: “Someone who forgets how to drive a car, do the shopping, make himself a coffee, and place a telephone call is not the same person who had known how to do those things all his life.”
 
-For Havel, the conclusion is that power is a“ job for modest people, for people who cannot be deceived”.
+For Havel, the conclusion is that power is a "job for modest people, for people who cannot be deceived”.
 
  I think this is true, yet it is not nearly enough.
 
