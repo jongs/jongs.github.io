@@ -94,7 +94,7 @@ So to me, this is very practical. Here are some examples of what I mean by that:
 
 <span style="text-decoration:underline;">Financial</span>
 
-Stable foundation: [BTC](https://squarecrypto.org/bitcoin.pdf). I believe Hayek when he said prices transmit information. For an economy to work we need prices to do their work. The concentration of monetary policy power in the hand of a selected few nations had led to the abuse of money via debasing. BTC solves for trust and predictability, taking control from the few, and giving it to anyone who wants to participate.
+Stable foundation: [Bitcoin](https://squarecrypto.org/bitcoin.pdf). I believe Hayek when he said prices transmit information. For an economy to work we need prices to do their work. The concentration of monetary policy power in the hand of a selected few nations had led to the abuse of money via debasing. BTC solves for trust and predictability, taking control from the few, and giving it to anyone who wants to participate.
 
 Surprising surface: Fintech generally is an example here. In particular,  [Aven](https://aven.com/) invented the first asset-backed credit card. Wealth is a virtuous cycle: it accumulates, protecting against inflation, and bringing access to the debt via collateralizing the assets. People without assets are left out. With Aven, people can use a house or a car to get competitive credit terms, leveling the playing field.  
 
