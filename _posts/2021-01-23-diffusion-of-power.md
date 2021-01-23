@@ -76,7 +76,7 @@ Companies stay less time on the S&P 500, CEOs last less on their tenure, popular
 
 Still, the gap between CEO compensation and average employees is rapidly rising, real wages are stagnant, and inflation in essentials like education and healthcare is rampant.
 
-Tiktokers, youtubers and podcasters are creating one person media empires, while NYT and the likes are turning into technology companies to better serve (and better ad target) their audience.
+Tiktokers, youtubers and podcasters are creating one-person media empires, while NYT and the likes are turning into technology companies to better serve (and better ad target) their audience.
 
 As power thaws, some are trying to keep it cool, While others want it to evaporate. 
 
