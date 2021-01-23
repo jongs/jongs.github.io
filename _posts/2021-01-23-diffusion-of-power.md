@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Disfussion of power
+title: Difussion of power
 description: 
 summary: The ice age of power is coming to an end
 tags: introspections
