@@ -125,4 +125,4 @@ There are many new frontiers opening up for power diffusion: new charter cities 
 
 &nbsp;
 
-At times when when the alternatives seem to be the conservation of power structures or their complete destruction, I thin finding creative ways to diffuse power is an important, interesting, and profitable endeavor.
+At times when when the alternatives seem to be the conservation of power structures or their complete destruction, I think finding creative ways to diffuse power is an important, interesting, and profitable endeavor.
