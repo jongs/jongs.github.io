@@ -8,7 +8,7 @@ tags: introspections
 
 **I**
 
-I was born and raised in Venezuela. Twenty-plus years of Hugo Chavez's Chavismo left me left me with a deep suspicion of power. 
+I was born and raised in Venezuela. Twenty-plus years of Hugo Chavez's Chavismo left me with a deep suspicion of power. 
 
 Add to that Trump’s presidency (and the constant parade of politicians consumed by power before that), the myriad of corrupt and extractive corporate and financial tycoons, and the yearly news of disingenuous religious leaders and the suspicion only grows stronger.
 
