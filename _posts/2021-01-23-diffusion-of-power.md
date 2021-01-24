@@ -78,7 +78,7 @@ Still, the gap between CEO compensation and average employees is rapidly rising,
 
 Tiktokers, youtubers and podcasters are creating one-person media empires, while NYT and the likes are turning into technology companies to better serve (and better ad target) their audience.
 
-As power thaws, some are trying to keep it cool, While others want it to evaporate. 
+As power thaws, some are trying to keep it cool, while others want it to evaporate. 
 
 There are jobs to be done in each of these camps. I for one, want to contribute to a productive diffusion of power. To do that, power certainly cannot be overly concentrated, but neither can there be total chaos.
 
