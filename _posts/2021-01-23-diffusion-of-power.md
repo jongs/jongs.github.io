@@ -123,4 +123,6 @@ It is also interesting to think of new powerful platforms disrupting older ones.
 
 There are many new frontiers opening up for power diffusion: new charter cities to compete with old ones, new voting mechanism like quadratic voting to better reflect the preferences of individual in collective decisions, more radical market solutions to property (I like [Weyl’s idea](https://www.amazon.com/Radical-Markets-Uprooting-Capitalism-Democracy/dp/0691177503) of having houses in an open market, priced by the owner to minimize tax but also to minimize odds of having someone else buy the house From her!). I even think of brain-computer  interfaces as a power diffusion technology, in that it can counterbalance the growing power of AI systems. 
 
-This idea of diffusion of power informs an important part of my intellectual curiosity, personal values, and work interests. Pursuing the diffusion of power is an interesting, important, and profitable endeavor. 
+&nbsp;&nbsp;
+
+At times when when the alternatives seem to be the conservation of power strcutrues or their complete destruction, pursuing the diffusion of power is an interesting, important, and profitable endeavor.
