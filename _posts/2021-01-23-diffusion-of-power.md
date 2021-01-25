@@ -88,9 +88,11 @@ To keep power at the edge of chaos, we need some things to be very stable and de
 
 This means that we need a hierarchy: stability, predictability and trust  at the foundation vs. change, surprise and competition at the surface.
 
-This framework has informed most of my work lately. The things I build and get involved with are either trying to build foundations that allow for the diffusion of power, or support agents that diffuse power via competitive means.
+&nbsp;
 
-So to me, this is very practical. Here are some examples of what I mean by that:
+There are many projects out there today trying to build foundations that allow for the diffusion of power, or supporting agents that diffuse power via competitive means.
+
+Here is a list of some interesting examples:
 
 <span style="text-decoration:underline;">Financial</span>
 
@@ -125,6 +127,6 @@ There are many new frontiers opening up for power diffusion: new charter cities 
 
 &nbsp;
 
-The complex system researcher Stuart Kaufman has a beautiful way of thinking about the edge of chaos. He is thinking in the context of biology, but I believe it applies to power as well: “Matter has managed to evolve as best it can. And we are at home in the universe. It’s not Panglossian, because there’s a lot of pain. You can go extinct, or broke. But here we are on the edge of chaos because that’s where, on average, we all do the best”
+ Stuart Kaufman has a beautiful way of thinking about the edge of chaos. He is thinking in the context of biology, but I believe it applies to power as well: “Matter has managed to evolve as best it can. And we are at home in the universe. It’s not Panglossian, because there’s a lot of pain. You can go extinct, or broke. But here we are on the edge of chaos because that’s where, on average, we all do the best”
 
 At times when when the alternatives seem to be the conservation of power structures or their complete destruction, I think finding creative ways to diffuse power is an important, interesting, and profitable endeavor.
