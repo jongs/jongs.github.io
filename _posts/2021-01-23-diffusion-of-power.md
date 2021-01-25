@@ -127,6 +127,6 @@ There are many new frontiers opening up for power diffusion: new charter cities 
 
 &nbsp;
 
- Stuart Kaufman has a beautiful way of thinking about the edge of chaos. He is thinking in the context of biology, but I believe it applies to power as well: “Matter has managed to evolve as best it can. And we are at home in the universe. It’s not Panglossian, because there’s a lot of pain. You can go extinct, or broke. But here we are on the edge of chaos because that’s where, on average, we all do the best”
+ Stuart Kaufman has a beautiful way of thinking about the edge of chaos. For him the context is biology, but I believe it applies to power as well: “Matter has managed to evolve as best it can. And we are at home in the universe. It’s not Panglossian, because there’s a lot of pain. You can go extinct, or broke. But here we are on the edge of chaos because that’s where, on average, we all do the best”
 
 At times when when the alternatives seem to be the conservation of power structures or their complete destruction, I think finding creative ways to diffuse power is an important, interesting, and profitable endeavor.
