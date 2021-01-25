@@ -120,6 +120,7 @@ Surface:  [Figma](figma.com) is the harbinger of surprising apps built on WEBGL.
 
 It is also interesting to think of new powerful platforms disrupting older ones. An example: digital audio workstations are desktop bound and expert tailored; things like [Bounce](https://bounce.town/)  can use the app store, which competes with the desktop, to make DAWs more accessible in surprising and cool ways. 
  
+&nbsp;
 
  These are just a few which are already happening. 
 
