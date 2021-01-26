@@ -2,7 +2,7 @@ remote_theme: ronv/sidey
 plugins:
   - jekyll-remote-theme
 site: Jonathan Gheller
-url: gheller.com
+url: https://www.gheller.co
 title: Jonathan Gheller
 description: I write here 
 twitter:
