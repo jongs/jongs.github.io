@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rates of absorption
-description: trying to explain to myself what is time
+description: Rates of absorption and how it affects value functions
 summary: Why we need to think about the rate of use or absorption
 tags: science
 ---
