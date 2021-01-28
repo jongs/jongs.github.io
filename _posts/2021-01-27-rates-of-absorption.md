@@ -34,7 +34,7 @@ In economics,  [Resource Curse](https://en.wikipedia.org/wiki/Resource_curse) re
 
 Yet, there is Norway, which found oil at a later period of its life. A nation once organized as a fishing society, Norway had the right institutions to make good use of it, much like a family that slowly grows its wealth and can be ready to receive a significant windfall when the values and skills are strong and ready.
 
-Similar dynamics happen around present political issues. In casual conversations with conservative friends, I have noticed that often one of their rejection of liberal identity politics (beyond the singular focus on it) is the speed at which these changes take place. 
+Often, in political issues there is resistance to fast rates of absorption. In casual conversations with conservative friends, I have noticed that often one of their rejection of liberal identity politics (beyond the singular focus on it) is the speed at which these changes take place. 
 
 <p>&nbsp;</p>
 
@@ -43,7 +43,7 @@ Many things have had a fairly stable rate of absorption for the longest time. Ta
 
 What will happen when we figure out how to increase the rate of absorption of learning dramatically? Imagine a brain-computer interface like in the movie The Matrix: would that type of fast learning be harmful? The Matrix seemed to believe dosing of new information was important (one of the remarkable things about Neo was how much he could upload to his brain), and given the examples above, maybe there will be some truth to that.
 
-A slow absorption rate can also be a problem. Catalytic events, network effects, acquiring new skills, among others, require a certain tempo to materialize. Without the right among of absorption, the phenomenon dwindles away. In these cases harm could be inflicted, likely by inaction. 
+A slow absorption rate can also be a problem. Catalytic events, network effects, acquiring new skills, among others, require a certain tempo to materialize. Without the right rate of absorption, the phenomenon dwindles away. In these cases harm could be inflicted, likely by inaction. 
 
 What’s less intuitive to me is how similar things can have dramatically different effects depending on how quickly we use them or absorb them.
 
