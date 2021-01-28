@@ -6,7 +6,7 @@ summary: Why we need to think about the rate of use or absorption
 tags: science
 ---
 
-The value we assigned to things or actions depends in part on how we use them. 
+The value we assign to things or actions depends in part on how we use them. 
 
 Killing is a terrible thing unless it is for self-defense. Lying is no good, but it can indeed be very good if used to save someone’s life. Drugs, TV, computer code, and many other things are valued depending on what use we make of them.
 
@@ -20,7 +20,7 @@ When carbs are refined, they lose the fiber and get absolved rather quickly, ove
 
 More recently, an [Astral Codex Ten](https://astralcodexten.substack.com/p/know-your-amphetamines?token=eyJ1c2VyX2lkIjoyMjAxNTcsInBvc3RfaWQiOjMxODQ1NTU0LCJfIjoiNDdLSnkiLCJpYXQiOjE2MTE3ODc2MTcsImV4cCI6MTYxMTc5MTIxNywiaXNzIjoicHViLTg5MTIwIiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.U4NQ033EHQ-c3BDbSiAHvY_Ir3a4Sad9JzIxYao64lA) blog cited a study on amphetamines, which suggests that the real difference between the commercial drug Adderall and the street drug Meth is their different administration form. 
 
-Adderall the pill has a slower rate of absorption than injected Meth. As the author points out, something similar is likely happening in the addictive levels of cocaine (snorted) vs. crack cocaine (smoked).
+Adderall the pill has a slower rate of absorption than smoked or injected Meth. As the author points out, something similar is likely happening in the addictive levels of cocaine (snorted) vs. crack cocaine (smoked).
 
 Another example of something subject to the rate of absorption is the value of wealth accumulation. 
 
@@ -28,7 +28,7 @@ The National Endowment for Financial Education ([NEFE](https://www.nefe.org/news
 
 A similar dynamic, I think, takes place with external validation. Too much too quickly is usually not a good thing. I have heard it said that celebrities get stuck at the age they become famous and have seen something similar play out with popular kids who peaked in high school. 
 
-Other examples show how the rate of absorption cal also affect large groups of people. 
+Other examples show how the rate of absorption can also affect large groups of people. 
 
 In economics,  [Resource Curse](https://en.wikipedia.org/wiki/Resource_curse) refers to mono-producing commodity countries’ tendency to have worse-performing economies than average. [Juan Pablo Perez Alfonso](https://en.wikipedia.org/wiki/Juan_Pablo_P%C3%A9rez_Alfonzo), a key figure in creating the Organization of Petroleum Exporting Countries (OPEC), epitomized the curse when he referred to oil as the “Devil’s excrement.”
 
@@ -36,11 +36,14 @@ Yet, there is Norway, which found oil at a later period of its life. A nation on
 
 Similar dynamics happen around present political issues. In casual conversations with conservative friends, I have noticed that often one of their rejection of liberal identity politics (beyond the singular focus on it) is the speed at which these changes take place. 
 
+<p>&nbsp;</p>
+
+
 Many things have had a fairly stable rate of absorption for the longest time. Take learning. Its rate of absorption hasn’t really changed since the invention of reading. We have developed some techniques for faster recall, but nothing of the impact of reading.
 
-What will happen when we figure out how to increase the rate of absorption of learning dramatically? Imagine a brain-computer interface like the movie The Matrix: would that type of fast learning be harmful? The Matrix seemed to believe dosing of new information was important (one of the remarkable things about Neo was how much he could upload to his brain), and given the examples above, maybe there will be some truth to that.
+What will happen when we figure out how to increase the rate of absorption of learning dramatically? Imagine a brain-computer interface like in the movie The Matrix: would that type of fast learning be harmful? The Matrix seemed to believe dosing of new information was important (one of the remarkable things about Neo was how much he could upload to his brain), and given the examples above, maybe there will be some truth to that.
 
-A slow absorption rate can also be a problem. Catalytic events, network effects, acquiring new skills, among others, require a certain tempo to materialize. Without the right among of absorption, the phenomenon dwindles away. There can be harm was done, likely by inaction. 
+A slow absorption rate can also be a problem. Catalytic events, network effects, acquiring new skills, among others, require a certain tempo to materialize. Without the right among of absorption, the phenomenon dwindles away. In these cases harm could be inflicted, likely by inaction. 
 
 What’s less intuitive to me is how similar things can have dramatically different effects depending on how quickly we use them or absorb them.
 
