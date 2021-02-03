@@ -44,7 +44,7 @@ Persuasion and narrative control are also as old as power and growing in importa
 
 As with the motivations for getting power, the methods for getting it  are also deeply interconnected. And in this case, I believe it is the size and scale that subsumes and overcrowds everything else.
 
-The best explanation I can find for why institutions get big is Coase’s theory of the firm. Coarse argues that firms grow when internal coordination is easier and cheaper than transacting amongst different entities  in the open market.
+The best explanation I can find for why institutions get big is Coase’s theory of the firm. Coase argues that firms grow when internal coordination is easier and cheaper than transacting amongst different entities  in the open market.
 
 In imperfect markets, there is a cost associated with price discovery (benchmarking, negotiating, agreeing on terms). Inside a firm, prices and contracts are easier to set, so functions and products get internalized. As more things come inside the firm, it gets bigger. The bigger it gets, the easier it is to compete with others because costs go down and margins go up. The bigger firms get so does their market share, which reduces the cost of marketing and distribution.
 
