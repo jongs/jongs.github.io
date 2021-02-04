@@ -49,7 +49,6 @@ Likely, what type of value entrepreneurs create will be influenced by their arch
 
 <p>&nbsp;</p>
 
-
 I find these archetypes useful in understanding my evolving motivations and understanding other entrepreneurs’ motivations. They serve as a useful mental model to use, at least for me (hopefully for you too?), when thinking about entrepreneurs. 
 
  
