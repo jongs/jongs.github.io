@@ -21,7 +21,7 @@ No one is just one of these archetypes. Entrepreneurs tend to have different com
 ![titans]({{ site.url }}/assets/titans.png)
 
 
-One of the reasons these three guys are legendary is that they are the best in the world in one of these archetypes and top 95% on the other two. 
+One of the reasons these three guys are legendary is that they are the best in the world in one of these archetypes and top 99% on the other two. 
 
 They did not start this way; people change and learn. As a result, these archetypes are not static: each person may start more heavily weighted on one dimension and change over time. 
 
