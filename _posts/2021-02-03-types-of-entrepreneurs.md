@@ -27,7 +27,7 @@ They did not start this way; people change and learn. As a result, these archety
 
 Still, what type of value entrepreneurs create will be influenced by their archetypes: some will bring better products, others cheaper products, and others novel products that change how we interact with each other and the world around us. 
 
-It is also interesting to think about how different startup advice matches different archetypes: I think "build something people want" aims at helping artisans become more business minded. the "MVP" philosophy is aimed at helping business people think about the iterative nature of a craft. "Move fast and break things" is meant to help artisans think more like politiciasns; to show how the world can be changed (hopefully for the better) if you put enough energy behind your efforts.   
+It is also interesting to think about how different startup advice matches different archetypes: I think "build something people want" aims at helping artisans become more business minded. the "MVP" philosophy is aimed at helping business people think about the iterative nature of a craft. "Move fast and break things" is meant to help artisans think more like politicians; to show how the world can be changed (hopefully for the better) if you put enough energy behind your efforts.   
 
 <p>&nbsp;</p>
 
