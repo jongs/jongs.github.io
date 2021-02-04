@@ -19,7 +19,9 @@ No one is just one of these archetypes. Entrepreneurs tend to have different com
 
 
 
-!({{ site.url }}/assets/titans.png)
+![titans](assets/titants.png "image_tooltip")
+
+![titans]({{ site.url }}/assets/titans.png)
 
 
 One of the reasons these three guys are legendary is that they are the best in the world in one of these archetypes and top 95% on the other two. 
