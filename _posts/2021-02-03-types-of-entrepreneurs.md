@@ -22,7 +22,7 @@ No one is just one of these archetypes. Entrepreneurs tend to have different com
 <p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image1.png "image_tooltip")
+![titans](assets/titants.png "image_tooltip")
 
 
 One of the reasons these three guys are legendary is that they are the best in the world in one of these archetypes and top 95% on the other two. 
