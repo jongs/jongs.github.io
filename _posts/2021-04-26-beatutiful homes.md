@@ -24,6 +24,8 @@ The more significant change is in home sizes, which [increased about 1,000 sq ft
 
 So homes are more expensive in good measure because homes have gotten bigger. 
 
+&nbsp;  
+
 One solution is to get bigger homes further out from city centers, where the land has not yet been appreciated. 
 
 In the 40s and 50s, the automobile and highways helped us expand from the city to the suburbs, but there was a limit to how far we could be from work. In the post covid world, we might see an expansion further out of suburbs into the mountain and beach towns an hour plus from work, or maybe to fully remote work In smaller and cheaper cities. 
