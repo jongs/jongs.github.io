@@ -22,6 +22,9 @@ Home prices have increased about 70% since the 70s; why?  There seem to be two m
 
 The more significant change is in home sizes, which [increased about 1,000 sq ft or 63% since the 1970s](https://www.aei.org/carpe-diem/new-us-homes-today-are-1000-square-feet-larger-than-in-1973-and-living-space-per-person-has-nearly-doubled/#:~:text=Over%20the%20last%2042%20years,2%2C687%20square%20feet%20last%20year.), a change eerily similar to the increase in cost.
 
+&nbsp;  
+
+
 So homes are more expensive in good measure because homes have gotten bigger. 
 
 &nbsp;  
