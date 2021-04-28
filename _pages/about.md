@@ -10,7 +10,7 @@ I like to start and grow software companies.
 I am co-founder of [Matilda Explorations](https://matildaexp.com/) a community that connects the best engineers in Latin America with full-time remote opportunities at the best U.S startups. I am also a non-executive co-founder of [BioBridge](https://gobiobridge.com/), a remote cardiac device monitoring company, and Sentinel Fresh, a software company for fresh produce logistics.
 
 
-I like to invest and advise early stage companies, often pre-product. Examples include Clubhouse, Glossier, Pared, Returnly, among others. 
+I like to invest and advise early stage companies, often pre-product. Examples include Aven, Clubhouse, Glossier,Kin, Pared, Returnly, among others. 
 
 Via the acquisition of Mixtent (Storylane) I spend about 3 years at Facebook, where I helped create the team that launched On This Day, Friendversaries, Year in Review, and other memories related products. 
 
