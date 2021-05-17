@@ -21,6 +21,8 @@ _Identity power energy_ ™ can take the form of online trolls or other unproduc
 
 There are a couple of interesting ways to manage this tension in our identity:
 
+&nbsp;  
+
 Paul Saffo’s maxim “strong opinions, weakly held” gives a way to let our beliefs get 
 
  in and out of our identity without so much trouble: it is a form of big, but flexible identity. 
