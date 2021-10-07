@@ -77,7 +77,7 @@ A Cooperative (co-op) can also buy houses and in that system ostensibly any memb
 
 Of course, a co-op with only one member wouldn't really be a co-op. 
 
-A co-opt with 3 members is more decentralized than a co-opt with only one member, but still 2 out of 3 could collude against the remaining one. So, the more people there are, the more decentralized the decision is.
+A co-op with 3 members is more decentralized than a co-op with only one member, but still 2 out of 3 could collude against the remaining one. So, the more people there are, the more decentralized the decision is.
 
  In this sense, decentralization means that every member of the co-op makes a decision, each decision has equal weight, and the final decision is the aggregate of all.
 
