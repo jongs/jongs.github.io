@@ -119,7 +119,7 @@ Ethereum is the first and biggest player in this space of multiple possibilities
 
 All markets, including the housing markets, need certain conditions to be a place where buyers and sellers can do business. Different conditions will affect the price of the asset.
 
-For the housing market to come together we need more than trust and security. For example, if we don’t know if the market fees are going to be 3% or 30% when I sell, or if selling a house will take a week or 5 years, it is hard to price the asset and hold it long term. Certainly might not be needed, but we can easily see how too much uncertainty negatively affects the price.
+For the housing market to come together we need more than trust and security. For example, if we don’t know if the market fees are going to be 3% or 30% when I sell, or if selling a house will take a week or 5 years, it is hard to price the asset and hold it long term. certainty might not be needed, but we can easily see how too much uncertainty negatively affects the price.
 
 Or take a more radical thought experiment where unique conditions affect prices and use cases -- 
 
