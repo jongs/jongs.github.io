@@ -57,7 +57,7 @@ The other protection against someone taking your house - and here I am stretchin
 
 Private keys are a cryptographic tool to keep information private (present in Bitcoin and onwards with other protocols). In Crypto protocols,  private keys are used to make transactions; without that key no transaction can happen. If you have a ton of crypto  and lose those private keys, you lost your crypto.
 
-To manage these keys,  some people use specialized hardware to keep them safe; others give private keys it to someone to look after them or have an account in an institution instead of keys(Coinbase business is to take have the keys and create an internal account for their customers), but as you can see,  if you give the keys to someone else, now you have introduced a third party again who you hope will take good care of those keys.
+To manage these keys,  some people use specialized hardware to keep them safe; others give private keys it to someone to look after them or have an account in an institution instead of keys(Coinbase business is to have the keys and create an internal account for their customers), but as you can see,  if you give the keys to someone else, now you have introduced a third party again who you hope will take good care of those keys.
 
 &nbsp;  
 
