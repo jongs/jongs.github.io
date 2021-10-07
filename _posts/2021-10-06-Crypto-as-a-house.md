@@ -66,6 +66,8 @@ To manage these keys,  some people use specialized hardware to keep them safe; o
 
 If I had tons of money and loved houses very much,  I could have an army of agents buying houses for me. I would give them certain criteria including total yearly budget and per house budget, and they would go buy them for me. This system would be distributed, but not really decentralized because I control it (I can fire agents, change compensation or buying criteria, etc).
 
+In Crypto, a lot of people from many different places participating in a project is no indication of how distributed is.
+
 &nbsp;  
 
 
