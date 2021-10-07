@@ -10,6 +10,7 @@ tags: startups
 
 **Buying a house**
 
+
 I can buy a house wherever I want as long as I have the money, and the seller is willing. 
 
 To do this buy/sell transaction, we need to trust the city to vouch for the property titles, and we may pay title insurance to protect against errors.
