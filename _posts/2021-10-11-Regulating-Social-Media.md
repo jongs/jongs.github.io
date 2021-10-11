@@ -6,6 +6,7 @@ summary: 3 ways to regulate social media
 tags: introspections 
 ---
 
+&nbsp;  
 
 I think there are three main paths to regulate FB and other social media apps: access, content, and personal data. In this post I will use FB as the main example.
 
@@ -22,8 +23,10 @@ In a country with limited civil liberties and where  state violence is used grac
 In the 1920’s, the prohibition amendment tried to regulate access to alcohol. Enforcement was difficult and costly and people found ways to access the product, often at a higher price and lower quality. In the end, the prohibition failed because people wanted to continue drinking alcohol. 
 
 In the U.S, we don’t allow people under 13 to use these apps. We could, if we think it’s important and there is strong supportive evidence, increase that age. But it is hard to imagine that a full grown adult needs to be protected by the government from social media.  
+&nbsp;  
 
-Content
+
+**Content**
 
 Regulating content is even harder. Aside from calls to violence, there is little consensus of what constitutes harmful content, and less so what constitutes truth. There are plenty of improvements that can be done to these products to give more context into what might be more or less truthful: the platform can show if it has been shared too many times, or limit reach from new accounts, or mark if some authoritative institution disagrees with a statement. Many of these ideas and more have been implemented, but the idea that FB or others can be the arbiter of truth seems like a fool’s errand to me. 
 
