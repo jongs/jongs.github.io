@@ -47,8 +47,10 @@ Action item #1:  We need to run an aggressive campaign to get people out to vote
 
 The second step is to do stack rank voting 
 &nbsp; 
-> We proposed some criteria for what a good system should be: what is it you want from a voting system, and impose some conditions. And then ask: can you have a voting system that guarantees that? — Kenneth Arrow 
+> We proposed some criteria for what a good system should be: what is it you want from a voting system, and impose some conditions. And then ask: can you have a voting system that guarantees that? — Kenneth Arrow. 
+
 &nbsp; 
+
 We need to let the top candidates in a primary all pass to a general election, and in the general election, we need to do [stack rank voting](https://ballotpedia.org/Ranked-choice_voting_(RCV)). That is, we need to select not just our favorite candidate but our second, third, etc. And if our favorite does not win, our vote goes to our second, and so forth. You can model this out and see how to stack rank voting yields the candidate that most people want. 
 
 Action item #2: To achieve this we need to finance and run a voter initiative to change our election system to stack rank voting. [Alaska](https://www.elections.alaska.gov/Core/RCV.php) is doing it, we can do it too. 
