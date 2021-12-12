@@ -43,7 +43,7 @@ California has open primaries, meaning you don’t need to declare a party affil
 
 For the November 2022 elections, we need to move primary participation from 10% to > 50%. The vast majority of Democrats and Republicans are moderate; they just need to go out and vote on the primaries. Add to that, non-party affiliation represents 25% of the total California voters so if we all go we can get sensible candidates on both parties. 
 
-<mark>Action item #1:  We need to run an aggressive campaign to get people out to vote in the primaries of 2022.</mark>
+*Action item #1:  We need to run an aggressive campaign to get people out to vote in the primaries of 2022.*
 &nbsp; 
 The second step is to do stack rank voting.
 &nbsp; 
@@ -52,7 +52,7 @@ The second step is to do stack rank voting.
 &nbsp; 
 We need to let the top candidates in a primary all pass to a general election, and in the general election, we need to do [stack rank voting](https://ballotpedia.org/Ranked-choice_voting_(RCV)). That is, we need to select not just our favorite candidate but our second, third, etc. And if our favorite does not win, our vote goes to our second, and so forth. You can model this out and see how to stack rank voting yields the candidate that most people want. 
 
-<mark>Action item #2: To achieve this we need to finance and run a voter initiative to change our election system to stack rank voting. [Alaska](https://www.elections.alaska.gov/Core/RCV.php) is doing it, we can do it too.</mark>
+*Action item #2: To achieve this we need to finance and run a voter initiative to change our election system to stack rank voting. [Alaska](https://www.elections.alaska.gov/Core/RCV.php) is doing it, we can do it too.*
 
 &nbsp; 
 
