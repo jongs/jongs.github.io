@@ -55,4 +55,9 @@ We need to let the top candidates in a primary all pass to a general election, a
 
 Action item #2: To achieve this we need to finance and run a voter initiative to change our election system to stack rank voting. [Alaska](https://www.elections.alaska.gov/Core/RCV.php) is doing it, we can do it too. 
 
+&nbsp;  
+
+&nbsp;  
+
+
 Ps: Katherine Ghal has been doing some awesome work with this; check it out here https://katherinegehl.com/
