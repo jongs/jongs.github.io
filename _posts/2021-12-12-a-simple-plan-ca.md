@@ -18,15 +18,16 @@ As a response, the republican opposition presents [this guy ](https://www.nbcnew
 
 Surely we can do better. 
 
-&nbsp;  
+&nbsp; 
 
 **The root cause** 
 &nbsp;
 
 > It is wrong to ask who will rule. The ability to vote a bad government out of office is enough. That is democracy - Karl popper 
-&nbsp; 
+
+
 We have an election system that favors extremist, highly ideological, and incompetent candidates. Here’s how:
-&nbsp; 
+&nbsp;  
 * Political candidates select their candidates in primaries 
 * Few voters participate in primaries. Of those who do, most are highly ideological and extremist.
 * Naturally, candidates who pander to extremes win primaries in both parties, leaving the general population with two bad options.
