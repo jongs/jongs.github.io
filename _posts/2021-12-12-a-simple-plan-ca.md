@@ -9,8 +9,7 @@ tags: people
 
 **The state of affairs** 
 
-&nbsp;  
-
+&nbsp;   
 
 Bad ideas are winning all over U.S politics, and especially in California. 
 
@@ -36,10 +35,10 @@ We have an election system that favors extremist, highly ideological, and incomp
 * Few voters participate in primaries. Of those who do, most are highly ideological and extremist.
 * Naturally, candidates who pander to extremes win primaries in both parties, leaving the general population with two bad options.
 
-&nbsp;  
+&nbsp;   
 
 **Solutions**
-&nbsp;  
+&nbsp;   
 
 The first step is to vote on primaries. 
 
