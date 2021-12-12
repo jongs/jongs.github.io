@@ -44,7 +44,6 @@ California has open primaries, meaning you don’t need to declare a party affil
 For the November 2022 elections, we need to move primary participation from 10% to > 50%. The vast majority of Democrats and Republicans are moderate; they just need to go out and vote on the primaries. Add to that, non-party affiliation represents 25% of the total California voters so if we all go we can get sensible candidates on both parties. 
 
 *Action item #1:  We need to run an aggressive campaign to get people out to vote in the primaries of 2022.*
-
 &nbsp;  
 
 The second step is to do stack rank voting.
