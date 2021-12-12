@@ -6,11 +6,10 @@ summary: Fixing California by changing our voting system
 tags: people
 ---
 
-
+&nbsp;
 **The state of affairs** 
 
-&nbsp;   
-
+&nbsp; 
 Bad ideas are winning all over U.S politics, and especially in California. 
 
 In the last 4 years, our state government has done little to manage our [forestry](https://calmatters.org/commentary/2021/08/wildfires-newsom-recall-forest-service/), keep our [utility](https://www.abc10.com/article/news/local/abc10-originals/newsom-pge-protection/103-65ca1d41-8efe-45b4-87bc-0cdecc714378) providers accountable, and protect [small businesses ](https://calmatters.org/economy/2021/07/california-small-business/)from the impact of the pandemic. It has given up on raising those at the bottom and focused on [handicapping our brightest](https://calmatters.org/commentary/2021/08/californias-proposed-new-math-curriculum-defies-logic/), all while managing to potentially misplace[ 31B  USD.](https://www.politifact.com/factchecks/2018/jun/01/gavin-newsom/did-john-chiang-lose-track-31-billion-californias-/)
@@ -22,15 +21,12 @@ Surely we can do better.
 &nbsp;  
 
 **The root cause** 
-&nbsp;  
-
+&nbsp;
 
 > It is wrong to ask who will rule. The ability to vote a bad government out of office is enough. That is democracy - Karl popper 
-
+&nbsp; 
 We have an election system that favors extremist, highly ideological, and incompetent candidates. Here’s how:
-
-
-
+&nbsp; 
 * Political candidates select their candidates in primaries 
 * Few voters participate in primaries. Of those who do, most are highly ideological and extremist.
 * Naturally, candidates who pander to extremes win primaries in both parties, leaving the general population with two bad options.
