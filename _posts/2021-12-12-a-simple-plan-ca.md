@@ -6,9 +6,9 @@ summary: Fixing California by changing our voting system
 tags: people
 ---
 
-**A very simple plan for California**
 
-The state of affairs 
+**The state of affairs** 
+
 &nbsp;  
 
 
@@ -19,13 +19,14 @@ In the last 4 years, our state government has done little to manage our [forestr
 As a response, the republican opposition presents [this guy ](https://www.nbcnews.com/politics/elections/how-larry-elder-upended-california-recall-n1277815)as their best alternative.
 
 Surely we can do better. 
+
 &nbsp;  
 
-The root cause 
+**The root cause** 
 &nbsp;  
 
 
-_It is wrong to ask who will rule. The ability to vote a bad government out of office is enough. That is democracy - Karl popper _
+> It is wrong to ask who will rule. The ability to vote a bad government out of office is enough. That is democracy - Karl popper 
 
 We have an election system that favors extremist, highly ideological, and incompetent candidates. Here’s how:
 
@@ -34,9 +35,10 @@ We have an election system that favors extremist, highly ideological, and incomp
 * Political candidates select their candidates in primaries 
 * Few voters participate in primaries. Of those who do, most are highly ideological and extremist.
 * Naturally, candidates who pander to extremes win primaries in both parties, leaving the general population with two bad options.
+
 &nbsp;  
 
-Solutions
+**Solutions**
 &nbsp;  
 
 The first step is to vote on primaries. 
@@ -49,7 +51,7 @@ Action item #1:  We need to run an aggressive campaign to get people out to vote
 
 The second step is to do stack rank voting 
 
-_We proposed some criteria for what a good system should be: what is it you want from a voting system, and impose some conditions. And then ask: can you have a voting system that guarantees that? — Kenneth Arrow _
+> We proposed some criteria for what a good system should be: what is it you want from a voting system, and impose some conditions. And then ask: can you have a voting system that guarantees that? — Kenneth Arrow 
 
 We need to let the top candidates in a primary all pass to a general election, and in the general election, we need to do [stack rank voting](https://ballotpedia.org/Ranked-choice_voting_(RCV)). That is, we need to select not just our favorite candidate but our second, third, etc. And if our favorite does not win, our vote goes to our second, and so forth. You can model this out and see how to stack rank voting yields the candidate that most people want. 
 
