@@ -45,7 +45,9 @@ For the November 2022 elections, we need to move primary participation from 10% 
 
 *Action item #1:  We need to run an aggressive campaign to get people out to vote in the primaries of 2022.*
 &nbsp; 
+
 The second step is to do stack rank voting.
+
 &nbsp; 
 > We proposed some criteria for what a good system should be: what is it you want from a voting system, and impose some conditions. And then ask: can you have a voting system that guarantees that? — Kenneth Arrow. 
 
