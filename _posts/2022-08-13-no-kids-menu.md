@@ -7,8 +7,6 @@ tags: people
 ---
 
 
-**No kids menu**
-
 Spain offers one big, fun, happy life. It's a culture that works for everyone there, and for all who visit every year. 
 
 For the most part, everyone in Spain is very happy, kids behave well in public and have fun, the young spend copious time with friends and family, and the old partake of the same life as everyone else.
@@ -27,7 +25,7 @@ You can walk miles from affordable neighborhoods into posh parts of town and the
 
 There is one big culture, one big and effective way to be happy and have fun. This life is truly amazing; Spaniards love it, and visitors love participating in it. 
 
-_Side note: of course, I am aware Spain has different provinces with different sub-cultures. Each area has its grapes for its wines; some have the best cheeses and some the best ham and some have different languages and at times some even harbor desires of secession. So by one big culture, I only mean this way of leading a life with others in public spaces. That seems to be shared across all these different provinces and their cultures and serves as a common thread across Spain. A bit of data to back this up: Spain has the most bars and restaurants per capita in the world. My brother-in-law shared an article that claims there are more bars than hospital beds in Spain. _
+_Side note: of course, I am aware Spain has different provinces with different sub-cultures. Each area has its grapes for its wines; some have the best cheeses and some the best ham and some have different languages and at times some even harbor desires of secession. So by one big culture, I only mean this way of leading a life with others in public spaces. That seems to be shared across all these different provinces and their cultures and serves as a common thread across Spain. A bit of data to back this up: Spain has the most bars and restaurants per capita in the world. My brother-in-law shared an article that claims there are more bars than hospital beds in Spain_.
 
 The U.S on the other hand is a factory of cultures. What is American food? I am not sure there is a definitive answer but I am sure it includes Italian pizza, French fries, hotdogs, Tex-mex, and American Chinese food.
 
