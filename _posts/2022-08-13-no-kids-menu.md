@@ -33,7 +33,7 @@ The U.S on the other hand is a factory of cultures. What is American food? I am 
 
 Spaniards engage with these American inventions at a safe distance. 
 
-It reminds me of a philosophy professor who thought Wittgenstein and when asked if he believed in his ideas he replied that he did not believe but rather was no more than  “a user of Wittgenstein”. Spaniards don’t seem to fully buy into these American cultural products, but they certainly use them.
+It reminds me of a philosophy professor who taught Wittgenstein and when asked if he believed in his ideas he replied that he did not believe but rather was no more than  “a user of Wittgenstein”. Spaniards don’t seem to fully buy into these American cultural products, but they certainly use them.
 
 Even the most parochial restaurant+coffee shop+bar play 90s MTV on the TV. American music plays everywhere and everywhere there are Nikes and Vans and whatever else that screams Americana is somehow part of the day-to-day life of Spaniards.
 
