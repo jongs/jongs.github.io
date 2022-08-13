@@ -63,7 +63,7 @@ Spaniards and Europeans at large seem to have a love/hate relationship with the 
 
 And there is some truth to that; the U.S generative culture, the respect for individuals, their ideas and wants, and needs,  is a factory for surprises and exceptions which often make the world better. 
 
- Europeans often think of the US as a mix of a torture chamber and some sort of greedy place,  but in reality, U.S good fortune is the result of letting people be all that they can be, damn social norms, history, location, or anything else. Our public lives as a result are often fragmented, and difficult to navigate, but also as a result, we create new worlds, technologies, ideas, and products that the entire globe gets to use and enjoy. I guess there is a tradeoff for everything, the proverbial there is no free launch maxim.
+ Europeans often think of the US as a mix of a torture chamber and some sort of greedy place,  but in reality, U.S good fortune is the result of letting people be all that they can be, damn social norms, history, location, or anything else. Our public lives as a result are often fragmented, and difficult to navigate, but also as a result, we create new worlds, technologies, ideas, and products that the entire globe gets to use and enjoy. I guess there is a tradeoff for everything, the proverbial there is no free lunch maxim.
 
 I do think Spain has reached the minimum material conditions that allow them to lead this life: with enough prosperity to provide universal healthcare, education, solid public transportation, amazing public spaces, and pensions upon retirement, maybe Spaniards do have enough and are ready to enjoy it. 
 
