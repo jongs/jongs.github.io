@@ -51,7 +51,7 @@ It’s also very healthy for him. Because he does need to eat he has been findin
 
 In Spain, there is little hanging out inside. To keep their beautiful buildings and their beautiful streets,  their beautiful apartments have remained small. As a result,  much hanging out with other people happens outside. It’s easy to be outside because it’s easy to know what to do; to be in Spain is to know how to fit everywhere here. 
 
-In contrast, a lot of daily life in the U.S is lived in private places, most people’s houses. To be in public in the U.S means encountering a ton of strangers doing all sorts of different things, following all sorts of cool, innovative unique ways of eating, socializing, working, and living. 
+In contrast, a lot of daily life in the U.S is lived in private places, at people’s homes. To be in public in the U.S means encountering a ton of strangers doing all sorts of different things, following all sorts of cool, innovative unique ways of eating, socializing, working, and living. 
 
 One intimate aspect tidbit where this private/public difference showed up: In the U.S, a good host wants to know what you need and want. In Spain,  good hosts welcome you into their world; their friends their restaurant+coffee shop+bars their families, and their summer family towns.
 
