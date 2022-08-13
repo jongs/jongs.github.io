@@ -37,13 +37,11 @@ It reminds me of a philosophy professor who thought Wittgenstein and when asked 
 
 Even the most parochial restaurant+coffee shop+bar play 90s MTV on the TV. American music plays everywhere and everywhere there are Nikes and Vans and whatever else that screams Americana is somehow part of the day-to-day life of Spaniards.
 
-There are Spaniard hipsters too and they seem to love Brooklyn and native
-
-Americans themed tattoos as much if not more than their U.S counterpart. 
+There are Spaniard hipsters too and they seem to love Brooklyn and Native Americans themed tattoos as much if not more than their U.S counterpart. 
 
 Yet these hipsters are spending little to no time in bespoke coffee shops buying 12 euro dripped coffee; they too enjoy these restaurants+coffee shop+bars with friends and neighbors and colleagues and their grandmas and little kids. They use one of the many American Cultures ™,  but they are not Americans.
 
-This great, fun, life-affirming culture works for most, but not all. Imagine the shock of my picky eating son when he noticed these dining places don’t have kid menus. ‘
+This great, fun, life-affirming culture works for most, but not all. Imagine the shock of my picky eating son when he noticed these dining places don’t have kid menus.
 
 The kid culture that has been growing in America where we have all these parallels product offerings for the little ones does not exist in Spain. Either this invention has not hit Spain yet, or it was not accepted, because it is a bit of an attack on their one big culture.
 
