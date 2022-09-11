@@ -7,7 +7,6 @@ tags: people
 ---
 
 
-Listen to that nervous feeling
 
 In the U.S, there is a bright line separating public spaces from private spaces. In Europe, the American notion of private and public spaces blur. I had two moments of clarity on these differences while visiting Spain; one while using a public bathroom, and another jumping off a pier. 
 
