@@ -59,7 +59,7 @@ On the subject of jumping into bodies of water:  have you seen those pictures of
 I looked online for American warning signs for cliffs. My favorite one, which the internet shows at various spot, reads:
 <p>&nbsp;</p>
 
-LISTEN TO THAT NERVOUS FEELING. 
+LISTEN TO THAT NERVOUS FEELING.  <br>
 Don’t jump off the cliff. 
 <p>&nbsp;</p>
 
