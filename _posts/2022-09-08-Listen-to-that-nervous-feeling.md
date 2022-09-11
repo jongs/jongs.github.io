@@ -22,6 +22,7 @@ Coming from the U.S, I had to triple check I was using the public bathroom right
 
 In contrast, most public spaces in the U.S come with a manual: what you can and cannot do, who can be where, and at what times. Here are the instructions for the Sue Bierman Park Playground in San Francisco:
 
+<p>&nbsp;</p>
 
 For the enjoyment of all visitors, please obey the following regulations:
 
@@ -35,6 +36,8 @@ For the enjoyment of all visitors, please obey the following regulations:
 7. No Riding of skateboards, scooters, bikes, or rollerblades
 8. Littering prohibited
 9. THIS PARK IS A DRUG-FREE ZONE
+
+<p>&nbsp;</p>
 
 The feeling it conveys is that this place is not yours and most people are not to be trusted here. Not a great vibe for a public park.  
 
@@ -51,9 +54,11 @@ Anyways, the next day my brother in law and I went back to the pier, and did a l
 On the subject of jumping into bodies of water:  have you seen those pictures of people jumping off cliffs on Europe’s beaches? So Fun! Guess what: the U.S has such cliffs and beaches. The difference is that in Europe those cliffs are not fenced. In the U.S we have fences and fines for those who jump and warning signs for all.  
 
 I looked online for American warning signs for cliffs. My favorite one, which the internet shows at various spot, reads:
+<p>&nbsp;</p>
 
 LISTEN TO THAT NERVOUS FEELING. 
 Don’t jump off the cliff. 
+<p>&nbsp;</p>
 
 This phrase says a lot about our approach to public spaces, and our fearful retreat into safety and privacy. 
 
