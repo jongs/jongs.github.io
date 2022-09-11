@@ -20,7 +20,10 @@ This contraption presented me with a new type of public bathroom; it is public i
 
 Coming from the U.S, I had to triple check I was using the public bathroom right, checking I was not missing a door or some instructions or regulation. But that’s not how public spaces work in Europe.
 
-In contrast, most public spaces in the U.S come with a manual: what you can and cannot do, who can be where, and at what times. Here are the instructions for the Sue Bierman Park Playground in San Francisco:
+In contrast, most public spaces in the U.S come with a manual: what you can and cannot do, who can be where, and at what times.
+<p>&nbsp;</p>
+
+Here are the instructions for the Sue Bierman Park Playground in San Francisco:
 
 <p>&nbsp;</p>
 
