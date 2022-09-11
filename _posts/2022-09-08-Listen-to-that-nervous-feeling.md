@@ -26,15 +26,15 @@ In contrast, most public spaces in the U.S come with a manual: what you can and 
 For the enjoyment of all visitors, please obey the following regulations:
 
 
-Be courteous and respectful of others
-Adults must be accompanied by a child
-No dogs
-Smoking prohibited 
-Feeding of birds or animals prohibited
-No alcohol or glass containers 
-No Riding of skateboards, scooters, bikes, or rollerblades
-Littering prohibited
-THIS PARK IS A DRUG-FREE ZONE
+1. Be courteous and respectful of others
+2. Adults must be accompanied by a child
+3. No dogs
+4. Smoking prohibited 
+5. Feeding of birds or animals prohibited
+6. No alcohol or glass containers 
+7. No Riding of skateboards, scooters, bikes, or rollerblades
+8. Littering prohibited
+9. THIS PARK IS A DRUG-FREE ZONE
 
 The feeling it conveys is that this place is not yours and most people are not to be trusted here. Not a great vibe for a public park.  
 
