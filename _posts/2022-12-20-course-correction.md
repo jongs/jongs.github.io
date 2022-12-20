@@ -6,7 +6,7 @@ summary: it all points to course correction
 tags: introspections
 ---
 
-My most excellent overheard experience was at a ski lift. This was 13 years ago, and I was trying to learn how to snowboard. I took one class, tried different things on the slopes, and felt a ton, r but also paid attention to the conversations people had on the lift. They would talk about what went right and what went wrong, and I would try to learn from what they said.
+My most excellent overheard experience was at a ski lift. This was 13 years ago, and I was trying to learn how to snowboard. I took one class, tried different things on the slopes, and fell a ton, but also paid attention to the conversations people had on the lift. They would talk about what went right and what went wrong, and I would try to learn from what they said.
 
 In one of these conversations, someone asked his friend how he avoids making mistakes and falling. The friend said: “oh, I do make tons of mistakes, I just correct them before I fall”
 
