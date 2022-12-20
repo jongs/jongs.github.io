@@ -12,7 +12,7 @@ In one of these conversations, someone asked his friend how he avoids making mis
 
 He explained that much of what he does with snowboarding is a function of a misstep he took a second prior that needs correcting. Wherever he is going with the board was often heavily influenced but the error he previously made.  
 
-This is a version of the famous Miles Davids quote: “It’s not the note you play that’s the wrong note – it’s the note you play afterward that makes it right or wrong.” 
+This is a version of the famous Miles Davis quote: “It’s not the note you play that’s the wrong note – it’s the note you play afterward that makes it right or wrong.” 
 
 This is also a version of the famous Antonio Machado verse, which my father is a big fan of quoting in all possible situations: “caminante, no hay camino, se hace camino al andar” (“walker, there is no path, the path is made by walking”)
 
