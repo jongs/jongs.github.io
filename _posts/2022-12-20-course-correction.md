@@ -24,4 +24,4 @@ This is also a version of this cool Tim Urban (waitbywhy author) graph:
 
 
 
-All of these point to one insight: there is no right path and there is no point in looking back; there is only course correction
+All of these point to one insight: there is no right path and there is no point in looking back; there is only course correction.
