@@ -22,4 +22,6 @@ This is also a version of this cool Tim Urban (waitbywhy author) graph:
 ![image](https://user-images.githubusercontent.com/544985/208748119-8c4bc02a-fe73-4261-a111-34419ecbe52e.png)
 
 
-**All of these point to one insight: there is no right path and there is no point in looking back; there is only course correction**
+
+
+All of these point to one insight: there is no right path and there is no point in looking back; there is only course correction
