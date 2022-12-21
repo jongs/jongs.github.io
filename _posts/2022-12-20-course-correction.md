@@ -10,7 +10,7 @@ My most excellent overheard experience was at a ski lift. This was 13 years ago,
 
 In one of these conversations, someone asked his friend how he avoids making mistakes and falling. The friend said: “oh, I do make tons of mistakes, I just correct them before I fall”
 
-He explained that much of what he does with snowboarding is a function of a misstep he took a second prior that needs correcting. Wherever he is going with the board was often heavily influenced but the error he previously made.  
+He explained that much of what he does with snowboarding is a function of a misstep he took a second prior, which now needs correcting. Wherever he is going with the board was often heavily influenced by an error he previously made.  
 
 This is a version of the famous Miles Davis quote: “It’s not the note you play that’s the wrong note – it’s the note you play afterward that makes it right or wrong.” 
 
