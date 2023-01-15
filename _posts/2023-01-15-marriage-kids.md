@@ -12,21 +12,21 @@ With marriage comes a couple of beneficial life changes. The first is a mindset,
 
 There a very few things in life where we get to think long-term and, till death do us part, is probably the first time most people encounter a truly long-term initiative. 
 Not only is marriage often the first, but it is one of the genuinely long-term endeavors anyone can do, even for the most interesting and complete individuals.  Of course, marriage, like all long-term plans, can be nothing more than an initiative because plans and efforts never  guarantee results.  
-.
+
 Many changes come when you start thinking genuinely long-term, but the most profound thing to me is that you start wondering less about how people around you can change and more about how you can change.
 The reason is that there is only genuine partnership with change. If someone adapts fully to you and you stay the same, you are not in a partnership. If you hold your partner’s life equally, anything other than a true partnership will break, or you will have to endure it with much pain.
  
 To be clear, I don’t believe this necessarily means an equal partnership is required, but most partnerships depend on a great degree of complementarity.
 
 The second change is in the emotional range. If you have a supporting life partner, you end up with less painful emotional downs. 
-
+ <br>
 
 ![Group 1](https://user-images.githubusercontent.com/544985/212560846-4a261cbf-7f37-437f-8e75-50503beba217.png)
 
 
 Having someone betting on you “forever” may not initially make the best moment better, but it will immediately make the worst moments less painful. To have someone alongside “for richer, for poorer, in sickness and in health” drastically raises the lowest you can fall. 
 
-
+ <br>
 
 **Kids**
 
@@ -42,8 +42,7 @@ Think of a circle with lines from the center to different points in circumferenc
 Some people disagree that having an expansive life is good and that having kids is good, and they may even argue we should live smaller lives and reverse humanity’s growth rate. I won’t try to argue at length here for expansive lives, having kids, and growing humankind. I will limit myself here by saying that life is good and worth living, and increasing humanity is good. 
 
 
-
-How to make the best of marriage and kids
+**How to make the best of marriage and kids**
 
 In my experience, marriage is predicated on the idea that we can learn infinite things from one person, that the process can give boundless gratification,  and that our relationship with them can be infinitely interesting and intimate. In my experience, the essential condition for a happy family is to find your spouse and kids infinitely interesting.
 
