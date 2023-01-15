@@ -41,6 +41,7 @@ Think of a circle with lines from the center to different points in circumferenc
 
 Some people disagree that having an expansive life is good and that having kids is good, and they may even argue we should live smaller lives and reverse humanity’s growth rate. I won’t try to argue at length here for expansive lives, having kids, and growing humankind. I will limit myself here by saying that life is good and worth living, and increasing humanity is good. 
 
+ <br>
 
 **How to make the best of marriage and kids**
 
@@ -55,6 +56,7 @@ But also, if you find humans interesting, kids are like reality tv from national
  
 As for admiring your kids, this can come easily if their struggles and aspirations resonate with yours, and it might be harder if they don’t. But, again, human curiosity and their equal standing as humans is the best path to admiration. 
 
+ <br>
 
 
 **Cupcakes and rainbows**
