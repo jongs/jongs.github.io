@@ -16,7 +16,7 @@ That game gets a nice twist once you can play it more than once. This is called 
 
  [iterated prisoner’s dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma#The_iterated_prisoner's_dilemma). In it, even if it is hard to talk or collaborate, you can see the actions others take and react in any way, whether random or predictable. 
 
-One successful strategy in such games is called tit-for-tat: https://en.wikipedia.org/wiki/Tit_for_tat.  The tit-for-tat strategy suggests that in an iterated prisoner dilemma game, an optimal strategy is to start cooperating but then replicate the other person’s action.
+One successful strategy in such games is called [tit-for-tat](https://en.wikipedia.org/wiki/Tit_for_tat). The tit-for-tat strategy suggests that in an iterated prisoner dilemma game, an optimal strategy is to start cooperating but then replicate the other person’s action.
 
 Tit-forTat works well with our tug of peace game: we treat people the best way we can, and then if they don’t reciprocate, we let the rope loose a bit to make some space. Now, because the rope is tense, we can feel when they want to pull closer, and if they do, we can reciprocate. 
 
