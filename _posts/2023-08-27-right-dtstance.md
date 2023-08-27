@@ -10,9 +10,11 @@ In tug-of-war, you want to pull as hard as possible to make people move towards 
 
 Game theory, the field of mathematics that studies games, suggests optimal strategies for games similar to the tug of peace.
 
-But first, a bit of context: The classical game theory thought exercise is called the prisoner dilemma (https://en.wikipedia.org/wiki/Prisoner%27s_dilemma), where collaborating or coordinating efforts are hard, and the payout is such that it is best if people can coordinate but terrible if only one collaborates, but the other does not. Without the ability to work together, the “equilibrium” is that no one collaborates. 
+But first, a bit of context: The classical game theory thought exercise is called the [prisoner dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma), where collaborating or coordinating efforts are hard, and the payout is such that it is best if people can coordinate but terrible if only one collaborates, but the other does not. Without the ability to work together, the “equilibrium” is that no one collaborates. 
 
-That game gets a nice twist once you can play it more than once. This is called the iterated prisoner’s dilemma:(https://en.wikipedia.org/wiki/Prisoner%27s_dilemma#The_iterated_prisoner's_dilemma). In it, even if it is hard to talk or collaborate, you can see the actions others take and react in any way, whether random or predictable. 
+That game gets a nice twist once you can play it more than once. This is called the :
+
+ [iterated prisoner’s dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma#The_iterated_prisoner's_dilemma). In it, even if it is hard to talk or collaborate, you can see the actions others take and react in any way, whether random or predictable. 
 
 One successful strategy in such games is called tit-for-tat: https://en.wikipedia.org/wiki/Tit_for_tat.  The tit-for-tat strategy suggests that in an iterated prisoner dilemma game, an optimal strategy is to start cooperating but then replicate the other person’s action.
 
