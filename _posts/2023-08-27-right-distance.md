@@ -1,3 +1,10 @@
+layout: post
+title: The right distaces
+description: commentary on relationships 
+summary: The right distace
+tags: people
+---
+
 
 There is an optimal distance for any relationship at any point in time. It is a rope that connects two people, which runs longer the more space they need and shorter the closer they want to be.
 
