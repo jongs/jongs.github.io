@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Diffusion of power
-description: 
-summary: The ice age of power is coming to an end
-tags: introspections
+title: The Right Distance
+description: Comments on 1:1 relationships 
+summary: The right distance 
+tags: People
 ---
 
 There is an optimal distance for any relationship at any point in time. It is a rope that connects two people, which runs longer the more space they need and shorter the closer they want to be.
