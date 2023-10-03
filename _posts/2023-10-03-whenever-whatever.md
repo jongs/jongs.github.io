@@ -22,16 +22,14 @@ I put together a list below that ranks how I think we make ourselves available t
 * 1 - Available whenever and can get on a phone very quickly or in person within days
 <p>&nbsp;</p>
 Notice that “whenever” is both the worst and the best way to give time to others. The key difference is if the other person can comfortably act on “whenever” or not.
-<p>&nbsp;</p>
+
 This issue with “whenever” really applies to any form of sharing. Take sharing things: ”Use my lakehouse whenever” is either the worst or the best invitation, depending on the personalities and the deepness of the relationship.
-<p>&nbsp;</p>
+
 ‘Whenever” means one thing or another, depending on how much you and the other person want to share. Maybe how much you want to share underlines the entire ranking: people who schedule recurrently are both more interested in being together than one person asking and the other person replying,  “Sure, let’s meet in Q1 of next year”. 
-<p>&nbsp;</p>
+
 Wanting to be with each other is a function of how much we value each other. That’s probably the net: the ranking improves the more each party is willing to give time (or things, space, etc) for the value of someone else’s company. 
-<p>&nbsp;</p>
+
 Sometimes someone says “whenever” meaning #1, but you hear #6. How do we debug this? Easy! If your “whenever” offer does not take in, move to #3 or #2 (depending of context), and then over time move to #1. Again, here, the key is how much you value it.
-
-
 <p>&nbsp;</p>
 
 **Whatever**
@@ -53,15 +51,14 @@ This is a summarized version of his list, from worst to best:
 
 <p>&nbsp;</p>
 Something similar happens here: Giving charity you don’t want to give is the worst. Progressively, the easier it is to receive (anonymous being easier than being beholden to a donor), the more “valuable” the charity is according to Maimonides.
-<p>&nbsp;</p>
-Giving charity anonymously also signals the receiver that you really value the act, irregardless of what other values you get from it (say recognition).  
+
+Giving charity anonymously also signals the receiver that you really value the act, regardless of what other values you get from it (say recognition).  
 
 
 In the end, since charity is not a desirable event, getting people out of the need for charity is the highest form of charity. 
 <p>&nbsp;</p>
 So with money and charity, you can say “whatever”, which is the absolute worst you can say or the best. Similar situation to “whenever.”
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 
