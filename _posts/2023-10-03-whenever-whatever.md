@@ -36,7 +36,7 @@ Sometimes someone says “whenever” meaning #1, but you hear #6. How do we deb
 <p>&nbsp;</p>
 
 As a comparison, let's look at a much better list: the medieval philosopher Maimonides proposed a hierarchy for the types of charities we can give.
-<p>&nbsp;</p>
+
 This is a summarized version of his list, from worst to best:
 <p>&nbsp;</p>
 
