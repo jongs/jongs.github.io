@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Whenever
+title: Whenever, Whatever
 description: How to give time to others
 summary: A ranked list of ways to give time to one another
 tags: People
 ---
+
+<p>&nbsp;</p>
 
 **Whenever**
 <p>&nbsp;</p>
@@ -30,6 +32,7 @@ Wanting to be with each other is a function of how much we value each other. Tha
 Sometimes someone says “whenever” meaning #1, but you hear #6. How do we debug this? Easy! If your “whenever” offer does not take in, move to #3 or #2 (depending of context), and then over time move to #1. Again, here, the key is how much you value it.
 
 
+<p>&nbsp;</p>
 
 **Whatever**
 <p>&nbsp;</p>
