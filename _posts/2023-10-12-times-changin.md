@@ -27,6 +27,6 @@ Or compare Jim Carey to Seinfeld. Like Seinfield, he started as a standup comedi
 
 This happens in all fields.  Clinton and Bush Sr are the forever politicians; Carter and Bush Jr farm and paint, respectively.  While the Beach Boys kept their sound constant, the Beatles tried all sorts of sounds and instruments. The list goes on. 
 
-Some people stand still against time; some like to change with it. There is no right way to do it, but it is worth noticing which is suitable for you.
+Some people stand as a constant against time; some like to change with it. There is no right way to do it, but it is worth noticing which is suitable for you.
 
 
