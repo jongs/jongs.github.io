@@ -23,6 +23,7 @@ Unlike Buffet, Mike Bloomberg has had at least three very different jobs. Mike B
 
 Or compare Jim Carey to Seinfeld. Like Seinfield, he started as a standup comedian. Then, it moved to TV but then quickly followed with comedic films. After, he decided to spend some time in dramatic roles. At some point, he took time off and focused on painting and, to some degree, writing. After a long hiatus, he got back to making films. He has spoken publicly about his fascination, tension, and finally, indifference to fame and, indirectly, to his relationship with art. 
 
+<p>&nbsp;</p>
 
 This happens in all fields.  Clinton and Bush Sr are the forever politicians; Carter and Bush Jr farm and paint, respectively.  While the Beach Boys kept their sound constant, the Beatles tried all sorts of sounds and instruments. The list goes on. 
 
