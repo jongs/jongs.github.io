@@ -1,8 +1,8 @@
 ---
 layout: post
-title:Times they are a changin
+title: Times they are a changin
 description: Two ways to grow old
-summary:Two ways to grow old. Which one is yours?
+summary: Two ways to grow old. Which one is yours?
 tags: People
 ---
 
