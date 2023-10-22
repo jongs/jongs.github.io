@@ -12,7 +12,7 @@ There is great pride in remaining unchanged over time. To look the same despite 
 
 Warrant Buffet has invested for over 70 years with the same “value investing” approach. As fads have come and gone and new paradigms emerged, he has stayed the same. He takes great pride in staying the same, making it a core part of his public persona. In turn, The financial world sees him as a reference point, an anchor in an ever-changing world. 
 
-Jerry Seinfeld has been writing observational humor for about 40 years. Using clever wordplay, he comments on the mundane ans weird social norms and human behavior. He used to joke about dating more; now, he jokes about his wife and kids. But the structure remains the same. He has commented on his writing method and the process of refining jokes, and that has stayed the same. He is aging as well as anyone would want to and doing well as he goes about it. 
+Jerry Seinfeld has been writing observational humor for about 40 years. Using clever wordplay, he comments on the mundane and weird social norms and human behavior. He used to joke about dating more; now, he jokes about his wife and kids. But the structure remains the same. He has commented on his writing method and the process of refining jokes, and that has stayed the same. He is aging as well as anyone would want to and doing well as he goes about it. 
 
 <p>&nbsp;</p>
 
@@ -21,7 +21,7 @@ There is also great pride in changing. Our bodies and minds change with time, an
 
 Unlike Buffet, Mike Bloomberg has had at least three very different jobs. Mike Bloomberg started his career at Salomon Brothers, where he spent about ten years before getting fired. With the money from the severance bonus, he seeded Bloomberg L.P., a company with tens of billions of revenue today. He became mayor of NYC in the early 2000s and did that job for a decade. He has been a Republican, an Independent, and a Democrat. He ran for president. And he is an active philanthropist. 
 
-Or compare Jim Carey to Seinfeld. Like Seinfield, he started as a standup comedian. Then, it moved to TV but then quickly followed with comedic films. After, he decided to spend some time in dramatic roles. At some point, he took time off and focused on painting and, to some degree, writing. After a long hiatus, he got back to making films. He has spoken publicly about his fascination, tension, and finally, indifference to fame and, indirectly, to his relationship with art. 
+Or compare Jim Carey to Seinfeld. Like Seinfield, he started as a standup comedian. Then, he moved to TV and quickly followed with comedic films. Afterward, he decided to spend some time in dramatic roles. At some point, he took time off and focused on painting and, to some degree, writing. After a long hiatus, he got back to making films. He has spoken publicly about his fascination, tension, and finally, indifference to fame and, indirectly, to his relationship with art. 
 
 <p>&nbsp;</p>
 
