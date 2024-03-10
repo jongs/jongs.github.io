@@ -1,11 +1,9 @@
 ---
 layout: post
-title: A Nepali bus road
-description: Startup are like climbing a road on a Nepali bus road
+title: A bus on a Nepali road 
+description: Startups are like climbing a road on a Nepali bus road
 tags: startups
 ---
-
-A bus on a Nepali road 
 
 
 ![A bus on a Nepali road](https://images.saymedia-content.com/.image/c_limit%2Ccs_srgb%2Cq_auto:eco%2Cw_639/MTc0MjE3MTg3MTE5MTQ2NDky/10-most-dangerous-roads-in-the-world.webp)  
