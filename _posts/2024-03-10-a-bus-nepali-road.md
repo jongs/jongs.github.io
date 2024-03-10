@@ -17,7 +17,7 @@ The passengers are your customers, who must stay calm and happy on the bus. The 
 
 Sometimes, half of the road is not there. When it rains, the ground gets extra slippery. For one reason or another, you may end up, by design or accident, with one wheel hanging off a cliff. The job of the technical team is not to die and keep going. The job of the rest of the people is to keep the bus packed with people. 
 
-Could you fall? Yes. Will it hurt? Most certainly. So, why do we do it? Why risk your life and others when there are better ways to reach the top? Here is a thought: How about going up in a helicopter?
+Could you fall? Yes. Will it hurt? Most certainly. So, why do it? Why risk your life and others when there are better ways to reach the top? Here is a thought: How about going up in a helicopter?
 
 ![A helicopter Nepali montain](https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/06/fd/6d/de.jpg
 )  
