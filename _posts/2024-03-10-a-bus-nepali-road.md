@@ -23,7 +23,7 @@ Could you fall? Yes. Will it hurt? Most certainly. So, why do it? Why risk your 
 )  
 
 
- Wouldn’t that be nice, eh? Well, here is the thing: helicopters are for rich companies, not for you. You are running a startup. First, you must get people up the mountain on a bus several times. If you don’t fall off the cliff, you might be able to save some money, grow your business, and eventually even get yourself your first helicopter. With time, you may buy many helicopters that will get tons of people up and down that mountain. With tons of effort and good luck, you may build a nice mountain transport business. I am rooting for you! 
+ Wouldn’t that be nice, eh? Well, here is the thing: helicopters are for rich companies, not for you. You are running a startup. First, you must get people up the mountain on a bus several times. If you don’t fall off the cliff, you might be able to save some money, grow your business, and eventually even get yourself your first helicopter. With time, you may buy many helicopters that will get tons of people up and down that mountain. With tons of effort and good luck, you may build a nice mountain transport business. I hope you do. I am rooting for you! 
 
 But as long as you are a startup, you are on a bus, climbing a Nepali mountain, trying not to die or ruin your customers' lives. That’s just how it is. You just have to keep driving forward and don’t fall off the cliff.  
 
