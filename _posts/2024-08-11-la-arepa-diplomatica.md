@@ -26,7 +26,7 @@ Hugo Chavez and his Mini-me, Mr. Maduro, are responsible for the[ largest non-wa
 
 Like similar governments before, the Chavista regime has exported a ton of Venezuelan dissidents, who take their food wherever they go. Through their food, Venezuelans share their country's story with the rest of the world. 
 
-Twenty years ago, people worldwide had to read or visit to learn about Venezuela. Today, each Arepera is a culinary embassy, most likely run by a dissident of the Chavista regime.
+**Twenty years ago, people worldwide had to read or visit to learn about Venezuela. Today, each Arepera is a culinary embassy, most likely run by a dissident of the Chavista regime.**
 
 <p>&nbsp;</p>
 
