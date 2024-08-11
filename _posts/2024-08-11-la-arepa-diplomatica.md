@@ -11,7 +11,7 @@ In 2002, the Thai government launched the [Global Thai Initiative,](https://en.w
 
 This culinary initiative, known as [Gastrodiplomacy](https://en.wikipedia.org/wiki/Culinary_diplomacy), is a strategic tool practiced in various forms by many governments. These initiatives are not just about increasing food exports and tourism but about fostering a sense of national awareness and goodwill for the nation. 
 
-Food also enters diplomacy indirectly via immigration. Take Mexico: there has been a steady increase in immigration from Mexico to the USA over the past decade. As a result, [1 in 10 restaurants in the USA serves Mexican food](https://www.pewresearch.org/short-reads/2024/01/11/about-1-in-10-restaurants-in-the-us-serve-mexican-food/). Here is another crazy stat: [99% of Americans have a Mexican restaurant in their county! \
+Food also enters diplomacy indirectly via immigration. Take Mexico: there has been a steady increase in immigration from Mexico to the USA over the past century. As a result, [1 in 10 restaurants in the USA serves Mexican food](https://www.pewresearch.org/short-reads/2024/01/11/about-1-in-10-restaurants-in-the-us-serve-mexican-food/). Here is another crazy stat: [99% of Americans have a Mexican restaurant in their county! \
 ](https://thehill.com/latino/4401087-report-99-percent-of-u-s-residents-have-a-mexican-restaurant-in-their-county/) \
 Over 30 million people in the US traced their ethnic origin to Mexico, out of about 10% of the total US population. In the United States, everyone knows what a taco is. As a result, when things happen in Mexico, Americans are aware and care. 
 
