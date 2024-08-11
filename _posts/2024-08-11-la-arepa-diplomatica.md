@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La Arepa diplomatica
+title: La Arepa Diplomatica
 description: Gastrodiplomacy, areperas, and Maria Corina Machado
 summary: The gastrodiplimacy of the Venezuelan opposition financed by the Chavista government.
 tags: people
