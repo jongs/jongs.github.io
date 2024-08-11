@@ -8,7 +8,6 @@ tags: people
 
 Food has changed the history of many nations. It provided global recognition for Thailand, cultural integration for Mexico and it could very well provide political change for Venezuela, thanks to its growing global network of Areperas. 
 
-<p>&nbsp;</p>
 
 In 2002, the Thai government launched the [Global Thai Initiative,](https://en.wikipedia.org/wiki/Thai_cuisine#Culinary_diplomacy) providing financing, marketing, and other forms of support to grow the number of Thai restaurants worldwide. The initiative worked, boosting the global count of Thai restaurants from 5,000 at launch to 10,000 by 2011.
 
