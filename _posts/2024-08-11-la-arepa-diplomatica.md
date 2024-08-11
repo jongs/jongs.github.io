@@ -6,7 +6,7 @@ summary: The gastrodiplimacy of the Venezuelan opposition financed by the Chavis
 tags: people
 ---
 
-Food has changed the history of many nations. It provided global recognition for Thailand, cultural integration for Mexico and is could provide political change for Venezuela, thanks to its growing network of Areperas. 
+Food has changed the history of many nations. It provided global recognition for Thailand, cultural integration for Mexico and it could very well provide political change for Venezuela, thanks to its growing global network of Areperas. 
 
 <p>&nbsp;</p>
 
