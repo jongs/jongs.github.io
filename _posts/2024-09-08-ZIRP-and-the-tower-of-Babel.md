@@ -15,7 +15,8 @@ Low interest rate times were good times; for about 13 years, good times made wea
 
 Take the example of DEI. The most extreme version of DEI ( Racial justice is a critical goal of the U.S, but the rule of race over excellence is not), is an idea that is only possible when money is cheap. See the graph below: noticed how DEI peaked about the same time interest rates started to go down:
 
- <img width="610" alt="Screen Shot 2024-09-08 at 6 30 12 PM" src="https://github.com/user-attachments/assets/e6a696bf-6b67-4634-9b76-14d2569d42ff">
+
+<img width="532" alt="Screen Shot 2024-09-08 at 7 25 11 PM" src="https://github.com/user-attachments/assets/1d2c74e9-9816-4786-bf89-6a7b897848d5">
 
 
 DEI has an interesting journey: it grows out a legitimate concern, it gets radicalized against merit, and once the money runs out, it slowly starts to revert to its original scope. 
