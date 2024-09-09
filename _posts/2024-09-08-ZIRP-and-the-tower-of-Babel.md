@@ -1,4 +1,13 @@
-**ZIRP and the tower of Babel**
+---
+layout: post
+title: ZIRP and the Tower of Babe
+description: ZIRP impact on ideas
+summary: Bad ideas are more popular when money is cheap
+tags: introspections 
+---
+
+
+**ZIRP and the Tower of Babel**
 
 Ideas, like things, have a cost. Some people can afford to hold silly ideas because they are sheltered from the consequences of acting on those ideas. Others can’t afford to have too many silly ideas, especially if they get in the way of food, shelter, protecting their loved ones, and the like. 
 
