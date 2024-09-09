@@ -15,21 +15,17 @@ This is true not only of people but also of societies at large, at least at cert
 
 ZIR (zero interest rates) times were good times; for about 13 years, good times made weak men with weak ideas. As the ZIRP (zero interest rate phenomenon) ended, so did the weak ideas of people sheltered from the consequences that only made sense when money was free.
 
-Take this as an example: the new found popularity of white supremacy ideology, as well as the peak of DEI (removing competency tests in favor of racial objectives) peaked about the same time interest rates started to go down.:
+Take this as an example: the new found popularity of white supremacy ideology, as well as the peak of DEI (removing competency tests in favor of racial objectives) peaked about the same time interest rates started to go down:
+
+<img width="610" alt="Screen Shot 2024-09-08 at 6 30 12 PM" src="https://github.com/user-attachments/assets/5f467a82-bfa3-4ce5-9f50-66935f7b253c">
 
 
-
-
+ 
 Another example, from SF local politics:: In late January 2021, the  SF school board voted 6-1 to rename 44 schools around the city [over “racist” namesakes](https://californiaglobe.com/section-2/san-francisco-school-board-votes-to-change-names-of-44-schools-over-racist-namesakes/) including President Abraham Linconl, who  only abolished slavery in 1863 with the Emancipation Proclamation.” By 2022, a massive recall cleared the board on a electoral landslide.
 
 Look at this table for three board members:
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
+<img width="617" alt="Screen Shot 2024-09-08 at 6 30 19 PM" src="https://github.com/user-attachments/assets/61156ab2-0586-4d26-a0e9-8f76205380e9">
 
 
 For what is worth, pretty much the same thing happened to Chesa Boudin, the radical left SF DA, in about the same timeline.
