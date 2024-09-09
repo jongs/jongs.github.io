@@ -13,7 +13,7 @@ This is true not only of people but also of societies at large, at least at cert
 
 Low interest rate times were good times; for about 13 years, good times made weak men with weak ideas. As the ZIRP (zero interest rate phenomenon) ended, so did the weak ideas of people sheltered from the consequences that only made sense when money was free.
 
-Take this as an example: the newfound popularity of white supremacy ideology, as well as the peak of DEI (removing competency tests in favor of racial objectives), peaked about the same time interest rates started to go down:
+White supremacy and the DEI rule over excellence are two of these ideas that are only possible when money is cheap. see the graph below: notice how white supremacy ideology, as well as the peak of DEI (removing competency tests in favor of racial objectives), peaked about the same time interest rates started to go down:
 
 <img width="610" alt="Screen Shot 2024-09-08 at 6 30 12 PM" src="https://github.com/user-attachments/assets/5f467a82-bfa3-4ce5-9f50-66935f7b253c">
 
