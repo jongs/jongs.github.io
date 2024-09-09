@@ -52,4 +52,4 @@ Internationally, though we might worry about the internal support of Hamas or an
 The dark clouds of today are leftovers from a time that no longer exists. I am optimistic about the near future because we can no longer afford to play fools. The tower of Babel has collapsed, and we are starting to understand each other again on the common ground of ideas that need to work. 
 
 
-I think the US and the world at large are moving on from rewarding posturing and theatrics to those that allow us to live together in harmony and with prosperity. We still need to see many dark clouds pass, but I fully expect an amazing next decade where we will have a more united US with stronger and more impactful ideals. 
+I think the US and the world at large are moving on from rewarding posturing and theatrics to gravitating towards ideas that allow us to live together in harmony and with prosperity. We still need to see many dark clouds pass, but I fully expect an amazing next decade where we will have a more united US with stronger and more impactful ideals. 
