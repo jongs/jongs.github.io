@@ -7,8 +7,6 @@ tags: people
 ---
 
 
-**ZIRP and the Tower of Babel**
-
 Ideas, like things, have a cost. Some people can afford to hold silly ideas because they are sheltered from the consequences of acting on those ideas. Others can’t afford to have too many silly ideas, especially if they get in the way of food, shelter, protecting their loved ones, and the like. 
 
 This is true not only of people but also of societies at large, at least at certain times. As the saying goes, hard times make strong men, strong men make good times, good times make weak men, and weak men make hard times… 
