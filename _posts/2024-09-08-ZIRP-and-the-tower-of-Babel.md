@@ -32,13 +32,13 @@ Ideas have a real cost. These costs can be absolved privately or publicly, share
 
  Often, we assign ideas to private worldviews and personal values, but often, ideas come and go depending on how cheap or costly they get.  As appended with communism and fascism, capitalism and globalism, and wokesism and the multiple alternatives presented, economics often determines which ideas people can afford.
 
- \
+ 
 With the end of ZIRP easy money, tons of crazy ideas became no longer affordable. We needed to go back to ideas that connect more directly with freedom, justice, prosperity, and safety. And as we can see, this is slowly happening.
 
-Free money builds the tower of Babel: dreams that are often noble in principle but catastrophic in practice because they are not anchored in reality. When we can’t afford those dreams, we need to focus on simpler, more real things: the  harvest, the houses, and how to govern each other. \
+Free money builds the tower of Babel: dreams that are often noble in principle but catastrophic in practice because they are not anchored in reality. When we can’t afford those dreams, we need to focus on simpler, more real things: the  harvest, the houses, and how to govern each other. 
 
 
- \
+ 
 As we look at the U.S. internal political conflicts, from fiscal policy to immigration, individual rights to state rights, a lot of expensive ideas that, from day one, made sense to few are no longer affordable. 
 
 The same thing applies to international conflicts: a lot of the enemies of the modern democratic value system (Russia, Hammas, Iran, to some extent China) had a lot of free money to finance conflict abroad and decent inside democratic nations. That is no longer the case. 
