@@ -41,7 +41,7 @@ Free money builds the tower of Babel: dreams that are often noble in principle b
  
 As we look at the U.S. internal political conflicts, from fiscal policy to immigration, individual rights to state rights, a lot of expensive ideas that, from day one, made sense to few are no longer affordable. 
 
-The same thing applies to international conflicts: a lot of the enemies of the modern democratic value system (Russia, Hammas, Iran, to some extent China) had a lot of free money to finance conflict abroad and dissent inside democratic nations. That is no longer the case. 
+The same thing applies to international conflicts: When money was cheap, many of the enemies of the modern democratic value systems, like Russia, Hammas, Iran, and China,  could finance ample conflict abroad and dissent inside democratic nations. This is getting increasingly harder each day. 
 
 Domestically, our two political candidates are ZIRP candidates, which is why no one is happy with either; they represent a version of us we no longer like because it entails an expired worldview that today looks silly and wasteful. We simply can’t afford their ideas. Of course, candidates know this too, as we see both adjust their language and proposals, moving closer to the center, putting in evidence the irrelevance of much of the ZIRP-financed culture. 
 
