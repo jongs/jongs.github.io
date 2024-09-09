@@ -3,7 +3,7 @@ layout: post
 title: ZIRP and the Tower of Babe
 description: ZIRP impact on ideas
 summary: Bad ideas are more popular when money is cheap
-tags: introspections 
+tags: people 
 ---
 
 
