@@ -30,7 +30,7 @@ For what it is worth, pretty much the same thing happened to Chesa Boudin, the r
 
 Ideas have a real cost. These costs can be absolved privately or publicly, shared by some more than others, or impact a broad spectrum of the population.
 
- Often, we assign ideas to private worldviews and personal values, but often, ideas come and go depending on how cheap or costly they get.  As it happended with communism and fascism, capitalism and globalism, and wokesism and the multiple alternatives presented, economics often determines which ideas people can afford.
+ Often, we assign ideas to private worldviews and personal values, but often, ideas come and go depending on how cheap or costly they get.  As it happened with communism and fascism, capitalism and globalism, and wokesism and the multiple alternatives presented, economics often determines which ideas people can afford.
 
  
 With the end of ZIRP easy money, tons of crazy ideas became no longer affordable. We needed to go back to ideas that connect more directly with freedom, justice, prosperity, and safety. And as we can see, this is slowly happening.
