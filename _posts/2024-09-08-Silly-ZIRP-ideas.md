@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ZIRP and the Tower of Babel
+title: Silly ZIRP Ideas
 description: ZIRP impact on ideas
 summary: Bad ideas are more popular when money is cheap
 tags: people 
@@ -41,7 +41,7 @@ Often, we assign ideas to private worldviews and personal values, but often, ide
  
 With the end of ZIRP easy money, tons of crazy ideas became no longer affordable. We needed to go back to ideas that connect more directly with freedom, justice, prosperity, and safety. And as we can see, this is slowly happening.
 
-Free money builds the tower of Babel: dreams that are often noble in principle but catastrophic in practice because they are not anchored in reality. Like the tower of Babel, when these ideas win, we are all trapped in fantasy silos, unable to understand each other. However, when we can’t afford those dreams, we are driven towards  simpler, more real things: the  harvest, the houses, and how to govern each other. More straightforward ideas are easier to agree on, so as a result, t is also easier to get along. 
+Free money yields silly ideas. When these ideas win, we are all trapped in fantasy silos, unable to understand each other. However, when we can’t afford those dreams, we are driven towards  simpler, more real things: the  harvest, the houses, and how to govern each other. More straightforward ideas are easier to agree on, so as a result, it is also easier to get along. 
 
 
  
@@ -55,7 +55,7 @@ Internationally, though we might worry about the internal support of Hamas or an
 
 
  
-The dark clouds of today are leftovers from a time that no longer exists. I am optimistic about the near future because we can no longer afford to play fools. The tower of Babel has collapsed, and we are starting to understand each other again on the common ground of ideas that need to work. 
+The dark clouds of today are leftovers from a time that no longer exists. I am optimistic about the near future because we can no longer afford to play fools. Silly ideas are going away, and we are starting to understand each other again on the common ground of ideas that need to work. 
 
 
 I think the US and the world at large are moving on from rewarding posturing and theatrics to gravitating towards ideas that allow us to live together in harmony and with prosperity. We still need to see many dark clouds pass, but I fully expect an amazing next decade where we will have a more united US with stronger and more impactful ideals. 
