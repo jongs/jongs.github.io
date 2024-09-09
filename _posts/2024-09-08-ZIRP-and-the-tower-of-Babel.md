@@ -19,11 +19,6 @@ Take this as an example: the new found popularity of white supremacy ideology, a
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
 
 Another example, from SF local politics:: In late January 2021, the  SF school board voted 6-1 to rename 44 schools around the city [over “racist” namesakes](https://californiaglobe.com/section-2/san-francisco-school-board-votes-to-change-names-of-44-schools-over-racist-namesakes/) including President Abraham Linconl, who  only abolished slavery in 1863 with the Emancipation Proclamation.” By 2022, a massive recall cleared the board on a electoral landslide.
 
