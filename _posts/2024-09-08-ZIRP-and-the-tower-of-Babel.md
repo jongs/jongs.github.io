@@ -11,7 +11,7 @@ Ideas, like things, have a cost. Some people can afford to hold silly ideas beca
 
 This is true not only of people but also of societies at large, at least at certain times. As the saying goes, hard times make strong men, strong men make good times, good times make weak men, and weak men make hard times… 
 
-ZIR (zero interest rates) times were good times; for about 13 years, good times made weak men with weak ideas. As the ZIRP (zero interest rate phenomenon) ended, so did the weak ideas of people sheltered from the consequences that only made sense when money was free.
+Low interest rate times were good times; for about 13 years, good times made weak men with weak ideas. As the ZIRP (zero interest rate phenomenon) ended, so did the weak ideas of people sheltered from the consequences that only made sense when money was free.
 
 Take this as an example: the newfound popularity of white supremacy ideology, as well as the peak of DEI (removing competency tests in favor of racial objectives), peaked about the same time interest rates started to go down:
 
