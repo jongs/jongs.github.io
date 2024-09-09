@@ -43,7 +43,7 @@ As we look at the U.S. internal political conflicts, from fiscal policy to immig
 
 The same thing applies to international conflicts: a lot of the enemies of the modern democratic value system (Russia, Hammas, Iran, to some extent China) had a lot of free money to finance conflict abroad and decent inside democratic nations. That is no longer the case. 
 
-Domestically, our two political candidates are ZIRP candidates, which is why no one is happy with either; they represent a version of us we no longer like because we realize they came to prominence under an expired worldview that today looks wasteful. We simply can’t afford their ideas. Of course, candidates know this too, as we see both adjust their language and proposals, moving closer to the center, putting in evidence the irrelevance of much of the ZIRP-financed culture. 
+Domestically, our two political candidates are ZIRP candidates, which is why no one is happy with either; they represent a version of us we no longer like because it entails an expired worldview that today looks silly and wasteful. We simply can’t afford their ideas. Of course, candidates know this too, as we see both adjust their language and proposals, moving closer to the center, putting in evidence the irrelevance of much of the ZIRP-financed culture. 
 
 Internationally, though we might worry about the internal support of Hamas or an adversarial Russia, the truth is that internal support for these causes is small, getting smaller, and runs against the very few things Congress across the Isles finds strong consensus on. Violent and  terrorist nations are no longer cool. That’s good.  
 
