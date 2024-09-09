@@ -13,13 +13,12 @@ This is true not only of people but also of societies at large, at least at cert
 
 Low interest rate times were good times; for about 13 years, good times made weak men with weak ideas. As the ZIRP (zero interest rate phenomenon) ended, so did the weak ideas of people sheltered from the consequences that only made sense when money was free.
 
-The most extreme version of DEI ( Racial justice is a critical goal of the U.S, but the rule of race over excellence is not), is an ideathat is only possible when money is cheap. See the graph below: noticed how DEI peaked about the same time interest rates started to go down:
+Take the example of DEI. The most extreme version of DEI ( Racial justice is a critical goal of the U.S, but the rule of race over excellence is not), is an idea that is only possible when money is cheap. See the graph below: noticed how DEI peaked about the same time interest rates started to go down:
 
-<img width="610" alt="Screen Shot 2024-09-08 at 6 30 12 PM" src="https://github.com/user-attachments/assets/5f467a82-bfa3-4ce5-9f50-66935f7b253c">
+ <img width="610" alt="Screen Shot 2024-09-08 at 6 30 12 PM" src="https://github.com/user-attachments/assets/e6a696bf-6b67-4634-9b76-14d2569d42ff">
+
 
 DEI has an interesting journey: it grows out a legitimate concern, it gets radicalized against merit, and once the money runs out, it slowly starts to revert to its original scope. 
-
-I also plotted white supremacy because it takes a similar journey: whites have legitimate concerns but white supremacy is a corrupted version of that. When money runs out, the radical versions slowly deflate. 
 
 
 Another example from SF local politics: In late January 2021, the  SF school board voted 6-1 to rename 44 schools around the city [over “racist” namesakes](https://californiaglobe.com/section-2/san-francisco-school-board-votes-to-change-names-of-44-schools-over-racist-namesakes/) including President Abraham Lincoln, who  only abolished slavery in 1863 with the Emancipation Proclamation.” By 2022, a massive recall cleared the board on an electoral landslide.
@@ -31,9 +30,12 @@ Look at this table for three board members:
 
 For what it is worth, pretty much the same thing happened to Chesa Boudin, the radical left SF DA, in about the same timeline.
 
+I have focused on the left because I see more of it. But the right has similar ideas that have gone through similar journeys: gun rights to thoughts and prayers on school shootings, concerns of rust belt jobs to isolationism, defense of conservative values to radical limitations of women's rights. All these ideas follow the same journey: some basic idea with some anchor in reality, a radicalized version when money is cheap and we can afford to be silly, and a slow return to normal once money is no longer free.
+
+
 Ideas have a real cost. These costs can be absolved privately or publicly, shared by some more than others, or impact a broad spectrum of the population.
 
- Often, we assign ideas to private worldviews and personal values, but often, ideas come and go depending on how cheap or costly they get.  As it happened with communism and fascism, capitalism and globalism, and wokesism and the multiple alternatives presented, economics often determines which ideas people can afford.
+Often, we assign ideas to private worldviews and personal values, but often, ideas come and go depending on how cheap or costly they get.  As it happened with communism and fascism, capitalism and globalism, and wokesism and the multiple alternatives presented, economics often determines which ideas people can afford.
 
  
 With the end of ZIRP easy money, tons of crazy ideas became no longer affordable. We needed to go back to ideas that connect more directly with freedom, justice, prosperity, and safety. And as we can see, this is slowly happening.
