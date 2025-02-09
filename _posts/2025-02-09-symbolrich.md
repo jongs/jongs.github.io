@@ -55,7 +55,7 @@ In this sense, traditions are in opposition to the clean slate world and inner s
 
 The current state of affairs is one of tension between self and tradition, between individual and symbolic life. We are free, but disconnected. We are individuals but our common spaces have been reduced to sharing our individualities, not connecting with each other in commonality. 
 
-We have built a world that reinforces the individual and the impermanent: private spaces like houses are getting bigger and richer, public spaces like plazas are getting smaller and poorer. Unique, permanent things are rarer, and new, dynamic things are now the most common object. The iphone, unlike a  tablet, is ever changing. Watching tv series is not watching movies. It's all informational and fluent, very little is symbolic and permanent. 
+We have built a world that reinforces the individual and the impermanent: private spaces like houses are getting bigger and richer, public spaces like plazas are getting smaller and poorer. Unique, permanent things are rarer, and new, dynamic things are now the most common object. The iphone, unlike a  dinner table, is ever changing. Watching tv series is not watching movies. It's all informational and fluent, very little is symbolic and permanent. 
 
 And this world, which has granted us unbounded options and freedom, has also rendered people very lonely, mentally unhealthy, and aimless. 
 
