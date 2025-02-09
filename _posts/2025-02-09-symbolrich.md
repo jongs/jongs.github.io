@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Symbolrich
-description: The modern psycological man and the need for symbols
-summary: The psycological man forges reality to fit his needs. As a result, he disconnected and lonely. 
+description: The modern psychological man and the need for symbols
+summary: The psychological man forges reality to fit his needs. As a result, he is disconnected and lonely. 
 tags: people 
 ---
 
