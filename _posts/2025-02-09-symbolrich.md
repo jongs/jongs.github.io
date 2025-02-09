@@ -69,7 +69,7 @@ There is no turning back the clock. But we do need shared symbols; we need to be
 
 One good first step out of the trap of the self could be returning to the value of time and seasons: we need to celebrate, mourn, and suffer together. And we need to do it with a deep sense of belonging, and courage, sacrifice and honor. We need times to rest, and times to be active, times to go on our own, and times to band together. There is a lot of wisdom in ancient symbols and in how they help us organize time, not unlike how technology has helped to organize space.
 
-We can think of a birthday, a rite of passage or a funeral as houses made to shelter our time: similarly to the way we make a clearing in the ground  and raise a house so there is a space to be together, we can make horses in time:  that is, moments to meet in shared rituals and traditions which make time to be together. 
+We can think of a birthday, a rite of passage or a funeral as houses made to shelter our time: similarly to the way we make a clearing in the ground  and raise a house so there is a space to be together, we can make houses in time:  that is, moments to meet in shared rituals and traditions which make time to be together. 
 
 The tension between the self and the symbols is not to be won by one or the other: we need to have an inner life *and* a symbolic life together. 
 
