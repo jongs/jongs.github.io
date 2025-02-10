@@ -73,4 +73,4 @@ We can think of a birthday, a rite of passage or a funeral as houses made to she
 
 The tension between the self and the symbols is not to be won by one or the other: we need to have an inner life *and* a symbolic life together. 
 
-We need our individual lives to be symbolically rich. Wealth and freedom are worthy goals to pursue; maybe we should add to that list, a desire to be symbolrich. 
+We need our individual lives to be symbolically rich. Wealth and freedom are worthy goals to pursue; maybe we should add to that list, a desire to be symbol rich. 
