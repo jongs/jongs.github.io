@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Symbolrich
+title: Symbol Rich
 description: The modern psychological man and the need for symbols
 summary: The psychological man forges reality to fit his needs. As a result, he is disconnected and lonely. 
 tags: people 
@@ -16,9 +16,9 @@ Today, the outside world is not a set of demands and constraints but something t
 
 This is not a uniquely liberal or left-wing phenomenon; it encompasses *everyone*. There are many flavors of conservatism in politics, as there are many interpretations of the great religions, with many churches. A modern religious person often decides which church to attend by how it makes them feel. A hundred years ago, or even fifty, not only did people have a different way of choosing their church, it was not even a decision to be made. In short, no one seems to be outside the individualistic perspective.
 
-Work and cumsumption have also moved from material needs to psychological needs: work must first be an activity we want to do, and second provide substance. Consumption is increasingly about signaling - what clothing says about us, what traveling reveals about our values - and less about replacing, repairing or even improving on what we own. 
+Work and consumption have also moved from material needs to psychological needs: work must first be an activity we want to do, and second provide substance. Consumption is increasingly about signaling - what clothing says about us, what traveling reveals about our values - and less about replacing, repairing or even improving on what we own. 
 
-There are many ideas that help establish the self to its current role (Neitzhe, Freud, Marx, Sarte…) but no idea has had the impact that technology has played in the rising primacy of the self.
+There are many ideas that help establish the self to its current role (Nietzsche, Freud, Marx, Sartre…) but no idea has had the impact that technology has played in the rising primacy of the self.
 
 Technology allows us to change the world as we please; this, in turn, erodes the notion of a stable *outside* and opens the perspective of reality as a blank slate. As technology evolves, we have been able to extend the transformational power of technology inwards: narcotics, digital technology, and medical advances help us think about the individual, also a blank slate: ideas, emotions, and physicality, all subject to change in favor of our needs and wants. 
 
