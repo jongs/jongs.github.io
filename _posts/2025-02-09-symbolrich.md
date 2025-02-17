@@ -28,7 +28,7 @@ Our current society is vested in technological progress that enables these notio
 
 There is a strong, positive aspect of this focus on oneself. There are personal and communal gains from this era of individualism.
 
-The first one is social. There is a saying where I grew up:* pueblo peño, infierno grande* (small town, big hell). Meaning, people can suffer a great deal when they live in a place surrounded by others who don’t share their same values. 
+The first one is social. There is a saying where I grew up:* pueblo pequeño, infierno grande* (small town, big hell). Meaning, people can suffer a great deal when they live in a place surrounded by others who don’t share their same values. 
 
 Today, people can explore the world digitally and physically to find others like them. Together, they can redefine what it means to be “us.” These new tribes enhance people's sense of meaning and happiness.
 
@@ -43,7 +43,7 @@ A symbol is a conventional, mutually recognized representation of an idea, a thi
  \
 For example, take a simple greeting: we meet someone on the street, and we say hi and smile, or we shake hands, or bow, or give three kisses, depending on the culture and circumstances. If, in this context, you decide to do something else, say, a jump with a dance, to self-express and mold the interaction for you, where does that leave the other person? And that encounter and  their relationship? If they don't share agreement on the ritual of greeting each other, and the symbol of trust, affection, respect exchanged in it, there is no actual place for them to meet, here and now, to say hello to each other in shared meaning and sentiment. 
 
-A greeting is a simple gesture, but you can quickly extrapolate this to friendships, romantic relationships, workplaces, religious groups, academic institutions and politics. If we don't have common symbols, we can find common ground. 
+A greeting is a simple gesture, but you can quickly extrapolate this to friendships, romantic relationships, workplaces, religious groups, academic institutions and politics. If we don't have common symbols, we won't find common ground. 
 
 When everyone runs around on their own internal symbols, a lot of things become unattainable or unstable: romance becomes less about sharing and more about self-disclosures, friendships turn into activity groups, academic institutions, instead of forming individuals are staging for performances of individualism, and politics, instead of the art of compromise around common symbols, becomes a battlefield of a growing list of ever-growing private symbols. 
 
