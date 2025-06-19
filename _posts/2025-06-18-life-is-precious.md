@@ -7,7 +7,7 @@ tags: people
 ---
 
 
-As C.S Lewis suggests, there might have never been more than one civilization in all of history. Across time and cultures, there is a shared set of values: human life is precious, private property is to be respected, we must honor our commitments, honor your parents and your nation, be kind to the poor and weak,  institute courts and enforce laws, and so on, are shared among all culture which after all, might the one human civilization.
+As C.S Lewis suggests, there might have never been more than one civilization in all of history. Across time and cultures, there is a shared set of values: human life is precious, private property is to be respected, we must honor our commitments, honor your parents and your nation, be kind to the poor and weak,  institute courts and enforce laws, and so on, all shared among different cultures at different times, and places. 
 
 There has never been more than one civilization, and yet, civilization makes progress. 
 
