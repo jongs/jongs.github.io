@@ -48,13 +48,13 @@ So, one way you lose control is by doing without the tension between different v
 The other way to lose control - to some degree surprising in this day and age-  is by ignoring civilization because it is old and lindy, and in turn doing whatever the hell you want.  
 
 
-     \
- \
+
+
 Why do we really need to help the poor? Could we simply do without private property? How is our life really more precious than a tadpole? Why shouldn’t I just do as I please? Following my desires and instinct could seem a strong foundation, a more natural one.  \
 
 
 
-     \
+
 Yet, in reality, to follow your Nature blindly is to give up control to someone else over yourself. Here is why: there is no such thing as purely natural and human needs and desires.
 
 
