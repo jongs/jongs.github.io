@@ -8,7 +8,9 @@ tags: people
 
 
 As C.S Lewis suggests, there might have never been more than one civilization in all of history. Across time and cultures, there is a shared set of values: human life is precious, private property is to be respected, we must honor our commitments, honor your parents and your nation, be kind to the poor and weak,  institute courts and enforce laws, and so on, all shared among different cultures at different times, and places. 
+
 <br>
+
 There has never been more than one civilization, and yet, civilization makes progress. 
 
 <br>
@@ -37,7 +39,6 @@ The challenge arises when we realize that there are no fast and hard rules to de
 The main criticism of this wholesale defense for an interconnected set of values that together comprise one human civilization is that civilization is a form of control, exercised by those who are powerful enough to set the rules of the game, or by an outdated past.
 
 <br>
-
 
 But civilization, as a form of control by the powerful over others, seems a relatively weak argument.
 
@@ -85,5 +86,5 @@ So we should be free of the tyranny of other men and the supremacy of some value
 
 But we can’t be free from civilization. We can drive on when the traffic light is red, and expect our lives or the lives of others will be spared. We can’t let others threaten lives with impunity and hope that the lives of those we love will be spared. We can’t expect to see an old man on the floor, trying to get up, ignore him, and expect society to give us the gifts of peace, friendship, and prosperity.  All these things are connected.
 
-
+<br>
 The primacy of the individual over the collective has been a movement that has ushered in diversity, inclusion, happiness, and prosperity. But we are not an island. And we are not able to produce all the values that sustain us emotionally, spiritually, and materially within ourselves. We live inside our civilization. It is within this framework that the notions of individuality, human dignity, progress, and prosperity have expanded. If we were to pick just one value and discard everything else, it would be like removing one of a thousand tightly knotted pillars, all of which support our home. You pull one down, you pull all others.
