@@ -48,7 +48,7 @@ If civilization is mostly one, and this is true across most of human history and
 I do think, however, the opposite is true: calling for one value over all else, as a mechanism of a powerful man to get others to do their bidding.
 
 
-Take those calling for people to die for honor over anything else (as an example, suicide bombers attacking the civilian population). When people respond to that call, they transition from operating within values in tension, and within human civilization, to being controlled and manipulated by someone who believes you can do without any tension if you just pick one value and discard everything else.  \
+Take those calling for people to die for honor over anything else (as an example, suicide bombers attacking the civilian population). When people respond to that call, they transition from operating within values in tension, and within human civilization, to being controlled and manipulated by someone who believes you can do without any tension if you just pick one value and discard everything else.  
 
 <br>
 
@@ -62,7 +62,7 @@ The other way to lose control - to some degree surprising in this day and age-  
 <br>
 
 
-Why do we really need to help the poor? Could we simply do without private property? How is our life really more precious than a tadpole? Why shouldn’t I just do as I please? Following my desires and instinct could seem a strong foundation, a more natural one.  \
+Why do we really need to help the poor? Could we simply do without private property? How is our life really more precious than a tadpole? Why shouldn’t I just do as I please? Following my desires and instinct could seem a strong foundation, a more natural one.  
 
 
 <br>
