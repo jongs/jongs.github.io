@@ -15,7 +15,7 @@ Take the shared idea that human life is precious. What it means to be human, to 
 
 Civilization values life, yet it may also ask for its share of sacrifices. Man and woman are responsible for the life of children, and if a situation calls for the life of one or another, they protect the life of the children. If a town is being attacked, all able-bodied people should stand to defend it, even at the risk of death. 
 
-So, life is precious, but at times must be expended for safety or honor. Theft can cost someone their liberty and even their life. The value of life is one of these civilization-level values, but what applies to it applies to all. Civilization is a set of fairly universal human values that exist in tension. 
+So, life is precious, but at times must be expended for safety or honor. The value of life can also be in tension with other values. Take theft and private property; if someone exercises violence to steal, killing might be the unwarranted result. This applies to all values and their relationships. Civilization is a set of fairly universal human values that exist in tension with one another. 
 
 
 To take any of these values as existing independently, outside of the tension and trade-offs of civilization, is to debase such values and undermine the whole of civilization.
