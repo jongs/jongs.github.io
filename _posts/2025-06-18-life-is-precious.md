@@ -80,11 +80,10 @@ To do what we want is to do what peddlers of naked values, divorced from how the
 
 <br>
 
-So we should be free of the tyranny of other men and the supremacy of some values over others, in disregard for how they exist together.
+So we should be free of the tyranny of other men and the supremacy of some values over others, but we can’t be free from civilization.
 <br>
 
-
-But we can’t be free from civilization. We can drive on when the traffic light is red, and expect our lives or the lives of others will be spared. We can’t let others threaten lives with impunity and hope that the lives of those we love will be spared. We can’t expect to see an old man on the floor, trying to get up, ignore him, and expect society to give us the gifts of peace, friendship, and prosperity.  All these things are connected.
+We can't drive on when the traffic light is red, and expect our lives or the lives of others will be spared. We can’t let others threaten lives with impunity and hope that the lives of those we love will be spared. We can’t expect to see an old man on the floor, trying to get up, ignore him, and expect society to give us the gifts of peace, friendship, and prosperity.  All these things are connected.
 
 <br>
 The primacy of the individual over the collective has been a movement that has ushered in diversity, inclusion, happiness, and prosperity. But we are not an island. And we are not able to produce all the values that sustain us emotionally, spiritually, and materially within ourselves. We live inside our civilization. It is within this framework that the notions of individuality, human dignity, progress, and prosperity have expanded. If we were to pick just one value and discard everything else, it would be like removing one of a thousand tightly knotted pillars, all of which support our home. You pull one down, you pull all others.
