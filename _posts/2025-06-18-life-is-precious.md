@@ -35,6 +35,7 @@ Sometimes life demands sacrifice, but not always, and at all times. Sometimes ou
 The challenge arises when we realize that there are no fast and hard rules to decide how values trade off in any given circumstance. As a result, people may feel that the value-tension is arbitrary, or a mechanism of control by those who benefit most from the current definitions of what is valuable. 
 
 The main criticism of this wholesale defense for an interconnected set of values that together comprise one human civilization is that civilization is a form of control, exercised by those who are powerful enough to set the rules of the game, or by an outdated past.
+
 <br>
 
 
