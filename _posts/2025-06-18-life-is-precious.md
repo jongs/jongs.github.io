@@ -18,7 +18,7 @@ Civilization values life, yet it may also ask for its share of sacrifices. Man a
 So, life is precious, but at times must be expended for safety or honor. The value of life can also be in tension with other values. Take theft and private property; if someone exercises violence to steal, killing might be the unwarranted result. This applies to all values and their relationships. Civilization is a set of fairly universal human values that exist in tension with one another. 
 
 
-To take any of these values as existing independently, outside of the tension and trade-offs of civilization, is to debase such values and undermine the whole of civilization.
+The constant risk to civilization is to take any of these values as existing independently, outside of the tension and trade-offs. To do so debases such values and undermines the whole of civilization.
 
 
 Back to the value of a human life: To call for honor deaths over every other value, or to value a personal life always and over everything else, is to call, on both accounts, for the debasement of human life, undermining the strength of human civilization. 
