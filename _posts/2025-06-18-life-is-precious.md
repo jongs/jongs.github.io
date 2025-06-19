@@ -20,6 +20,7 @@ So, life is precious, but at times must be expended for safety or honor. The val
 
 The constant risk to civilization is to take any of these values as existing independently, outside of the tension and trade-offs. To do so debases such values and undermines the whole of civilization.
 
+<br>
 
 Back to the value of a human life: To call for honor deaths over every other value, or to value a personal life always and over everything else, is to call, on both accounts, for the debasement of human life, undermining the strength of human civilization. 
 
