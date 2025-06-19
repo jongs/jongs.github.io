@@ -73,7 +73,7 @@ Why do we really need to help the poor? Could we simply do without private prope
 Yet, in reality, to follow your Nature blindly is to give up control to someone else over yourself. Here is why: there is no such thing as purely natural and human needs and desires.
 
 
-Our desires, needs, and instincts don’t flow from within, absolute original and pure, like some primordial river on the first day the earth was born. They are informed by those who came before us (in acceptance or reaction against), by the current values, fashions, ideas, acquired in the household, through socialization, via the media, made possible by the existing technology and the existing material and cultural wealth. This starts at birth and will continue to happen as long as you breathe.
+Our desires, needs, and instincts don’t flow from within, absolutely original and pure, like some primordial river on the first day the earth was born. They are informed by those who came before us (in acceptance or reaction against), by the current values, fashions, ideas, acquired in the household, through socialization, via the media, made possible by the existing technology and the existing material and cultural wealth. This starts at birth and will continue to happen as long as you breathe.
 
 
 To do what we want is to do what peddlers of naked values, divorced from how they interact and affect other values, wish us to do, mostly for their benefit.  When we say, “I should do whatever I want”, regardless of civilization and its values, we are open to being conditioned by those who profit from people doing whatever they want.
