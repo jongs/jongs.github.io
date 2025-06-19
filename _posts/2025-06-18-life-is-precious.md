@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Life is precious
-description: How valiable things relate to one another
-summary: It is possible that there has only been one human civilization. With a set of values that are, all together, one thing
+description: How valuable things relate to one another
+summary: There may have only been one human civilization. With a set of values that are, all together, one thing
 tags: people 
 ---
 
