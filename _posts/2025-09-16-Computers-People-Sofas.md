@@ -12,17 +12,23 @@ What will happen to all the places, products, and services around us, the compan
 
 A simplified view of these questions could be restated this way. Once we get SI:
 
-
+</p>
 
 1. What would things be worth?
 2. What will each person do/work on?
 3. What should we do, collectively, given the first two?
 
+</p>
+
 I want to take a concrete case and see how far we can go with these questions.
 
 For example, once we achieve SI, what would happen to the value of the sofa I am sitting on, the people who work to make this sofa, and what, if anything, should the collective do about that reality? 
 
+</p>
+
 **The Sofa Maximizer problem**
+
+</p>
 
 **SI without robots**
 
@@ -40,6 +46,7 @@ Where else can SI change the cost structure and value of the sofa? We can imagin
 
 This last point is interesting: SI will be able to do things that no machine can do now, and do it better than humans. However, for many tasks, machines already perform very well, and the gain might actually be tiny. Imagine an SI that figures out how to build a printer that is 100X faster than current home printers. Unless it is sold at the same price, the sofa company probably won’t care too much about that gain in that part of their business. 
 
+</p>
 **SI with robots**
 
 So far, we are talking about non-instantiated SI. Now, let’s get the robots in here. An SI that had superhuman dexterity and the ability to act in the world should move the needle quite a bit. Let’s do another back-of-the-bowling estimation on the impact:
@@ -48,6 +55,7 @@ Factory labor will drop to practically zero. Logistics will drop a ton with auto
  \
 But we can’t forget that embodied SI will also introduce new costs. For one, a factory full of robots will consume significantly more energy, so that plant overhead will increase.  And then, there is the cost of robots: real SI would have robots design and build themselves, so there will also be a constant drop in costs, but, like the sofa, there will be material, energy,  a marketplace for attention on those products, and margins that will make the cost not zero. So, that’s part of the cost of the Sofa. How much? It’s hard to tell, but I feel comfortable assuming 10% of the total cost. So, let’s go back and call it a 30-40% total cost reduction thanks to full-blown SI. 
 
+</p>
 **30%?!?**
 
 My first reaction is that it feels tiny. I was expecting SI and its robotic extensions to slash costs by 90%. 
@@ -60,6 +68,7 @@ But these solutions will require a ton of energy. And as we mentioned, the robot
 
 Let’s call this* *the* New World Scenario*. And let's label the world where things somewhat stay as they are, but now jobs are done by computers and their robots, as the* Better World Scenario.* 
 
+</p>
 **The Better World Scenario**
 
 ~30% seems smaller than anticipated, but if achieved within a short timeframe, then it’s very significant from an economic standpoint, and most certainly for the job prospects of all the workers who lost employment due to automation.  In turn, it is worth spending some mental cycles trying to figure out what it would mean for our key guiding questions of how much things would be worth in this world, what it would do to people’s jobs, and what our collective reaction would be.
@@ -88,11 +97,15 @@ The jobs, however, will have different: China's rise directly impacted jobs in W
 
 In countries with large domestic markets like the USA, SI might actually make it easier to reshore all of the supply chain, but this will have a marginal impact at best in employment, as a lot of the jobs the sofa company generates in the US could still be lost due to SI. 
 
-**Was China really a robot? **
+</p>
+
+**Was China really a robot?**
 
 Here is an interesting twist:. There is a [big study](https://www.ncci.com/Articles/Pages/II_Insights_QEB_Impact-Automation-Employment-Q2-2017-Part1.aspx) that claims 87% of the job losses in manufacturing from 200 to 2010 were due to automation, and only 13% due to trade and globalization.  This is consistent with the [growth in output per worker](https://www.ncci.com/Articles/Pages/II_Insights_QEB_Impact-Automation-Employment-Q2-2017-Part1.aspx), which began even before China reached its stride: from 1996 to 2016, U.S. manufacturing output grew by 71%, while manufacturing employment dropped by 30%. Some economists over at MIT did the math and concluded that manufacturing robots replace somewhere between[ 3 and 6 workers](https://www.nber.org/papers/w23285). 
 
 China, robots, or both, the effect seems comparable. The policy implications, however, might be dramatically different.  
+
+</p>
 
 **The value of a sofa (and everything in it) in a Better World**
 
@@ -118,18 +131,18 @@ How about sofa companies? Looking at [China](https://china.acclime.com/news-insi
 
 What does this mean in an SI scenario? SI could drive a [China-like ](https://www.amazon.com/Power-Metal-Resources-Shape-Future/dp/0593541707)commodities [super cycle](https://www.amazon.com/Rare-Metals-War-digital-technologies-ebook/dp/B085RMQNLC/ref=sr_1_1?crid=38QXIC1JQZ458&dib=eyJ2IjoiMSJ9.UeV-grrbv_rJxVoYJUVPB6o_Au2iw_NTR2JURzNhYXoYZi9veR0DBzGZjdo5X-TDHgQJT6FzGIH9dp0aDtnsWQ.3FoA6pOcE8LEbXc8TD8f7Lzeyj7ECyDBRVNYpeNvg1o&dib_tag=se&keywords=the+rare+metals+war+by+guillaume+pitron&qid=1757635902&sprefix=the+rare+met%2Caps%2C158&sr=8-1), and [commodity traders](https://www.amazon.com/World-Sale-Traders-Barter-Resources/dp/0197651534/ref=sr_1_1?crid=12C51PLGUXIO3&dib=eyJ2IjoiMSJ9.Gxd1ejVjbkh8EyfXlSeqLhcuCT7f3ZSj2smVpbVyqJld4XZ_5yeuF4AM0qvcK3rrVKWixUqiK6f9z-grevoAtd8UYTFYXQmn85wlJGBEZB__HtHYstTTCK7goOd5C-asnBGUw6bKKxkZXaz2dRuV2P_T1eX2NKlmBMSlPM1NObA_afyt-jLrWBguS83tZw2_vVWlyY0XE8QC40fxfDziy1lwY7f2tBZNOvOsFiPDWLM.G2TZYhQhZtblOiVZzioK-5f0zUFFkxRHuXzw2P04FYY&dib_tag=se&keywords=the+world+for+sale&qid=1757635920&sprefix=the+world%2Caps%2C212&sr=8-1) (physical and financial) will likely have a great run. 
 
- 
-
+</p>
 Then we have companies building SI.
 
  If you substitute the Chinese factories and their workers from the recent past, and replace them with the SI of the near future, the companies that provide the software and robots will grow in quantities and in size, and they will capture a good deal of the new value. This will drastically accelerate the “[software eats the world](https://a16z.com/why-software-is-eating-the-world/)” trend.
 
 As more sofas are bought more often, the companies that can promote and sell these products to customers will also benefit from SI. From those companies,  some will leverage  SI sooner to run their business (in a similar fashion to who we explore SI role in sofa manufacturing), and those will win and get very big. 
 
+</p>
+
 **What about the people**
 
-What would happen to jobs? \
-
+What would happen to jobs?
 
 Let’s start with the now: we have the impression that employment levels have remained generally [stable](https://fred.stlouisfed.org/series/UNRATE), but if you look at hours of work, these have been going[ down monotonically](https://fred.stlouisfed.org/series/USAAHWEP) for 20 years.
 
@@ -137,10 +150,11 @@ This becomes far more striking if you look far enough back. In a [world without 
 
 Steady unemployment rates can be attributed to employers transitioning from one industry to another as their jobs become automated. But what explains the decline in hourly work? To some degree, this is the nature of the service sector; by[ some estimates](https://niwr.org/wp-content/uploads/2020/10/Gig-Economy-By-The-Numbers_The-Institute_2020.pdf) 1  in 3 Americans are now working on the Gig economy - but, fundamentally, this is a function of automation: there is no new sector to jump to, so employees, in all industries, are seeing their hours of work cut down by the complementary contributions or technology. \
 
-
 The challenge with SI is that it is unlikely to be complementary. For many jobs, SI will do it all. Farms already run mostly on machines; manufacturing increasingly so as well. In my area, some taxis are starting to drive themselves. Most of my customer support interactions -  in-apps and over the phone -  are with AIs. 
 
 So, what happens to jobs in SI? One option is to assume SI is like other technologies and that the future will be like the past. If that is the case, new industries will emerge, and the challenge will be to help people from past sectors to transition to new ones (this is harder than it sounds, and we have failed to do this well in the past). The other option here is that SI is different, and that there is a permanent loss of work. The challenge here is less what will people do, and more, how will people earn a living: work used to be the primary form of wealth distribution, but, as we can see, we have fewer hours of work to go around as it is, and with SI, this number will collapse. 
+
+</p>
 
 **SI, people, and policy**
 
@@ -154,6 +168,8 @@ There is a long history of successes and failures of industrial policy: protecti
 
 The general sentiment from the big tech companies is that, no matter how [much](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-warns-employees-at-company-townhall-im-haunted-by-one-particular/articleshow/123983682.cms?utm_source) they [thought](https://www.ciodive.com/news/amazon-ceo-andy-jassy-AI-spend/745083/?utm_source) they needed to [invest](https://seekingalpha.com/article/4705978-alphabet-inc-goog-q2-2024-earnings-call-transcript?utm) in AI in a year or two, today they believe they [underinvested](https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0?gaa_at=eafs&gaa_n=ASWzDAh3OCLpjr9eJUa2_yCJ_8UArapf_ZkOhYAhjZq_JvnkMbKuExW6l0-J&gaa_sig=UEOeEVsD0JbQsR9DdE7gj6f7T3TWc7qCEf1QsyVsHz2ekRjSVL5iocBDzAY02wXlB2FJX3r0uhNlUkzwA2JeVg%3D%3D&gaa_ts=68cc7e93&utm_source).  Massive growth will require boatloads of capital, massive Real Estate build-ups, chip production, and vast amounts of energy (Google and Microsoft are already at ~30tWh; top 4 tech cos probably are in the 10B/yr in electricity bills). This will require zoning, permitting, trade, and energy, which the government can help enable or block. If one thing can get in SI's way, it is the government. And, at this stage of the game, government and capital are the most powerful levers to move faster.
 
+</p>
+
 **The COVID test-drive**
 
 The labor side of the equation is more complex. How would people live if they couldn’t work? 
@@ -163,6 +179,8 @@ When people could not work due to COVID, the solution, at least in developed cou
 But being unemployed is not a virus. Suppose we can trust humans to remain humans through the rise of SI. In that case, no-merit wealth transfer will not lead to a stable social equilibrium: people don’t like others to take what is theirs, and most people don't want to feel despondent and dependent on others, and need a sense of self-worth. 
 
 Past solutions won’t work either: in the past, as people moved from farms to factories and from there to service jobs, we leveled up people's skills, getting everyone through high school, and then moving more and more people through college. But, there will be little to no jobs where any education can enable people to compete with SI.
+
+</p>
 
 **But really, what about the people?**
 
