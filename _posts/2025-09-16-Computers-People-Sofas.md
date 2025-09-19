@@ -18,17 +18,17 @@ A simplified view of these questions could be restated this way. Once we get SI:
 2. What will each person do/work on?
 3. What should we do, collectively, given the first two?
 
-
+<br>
 
 I want to take a concrete case and see how far we can go with these questions.
 
 For example, once we achieve SI, what would happen to the value of the sofa I am sitting on, the people who work to make this sofa, and what, if anything, should the collective do about that reality? 
 
-
+<br>
 
 **The Sofa Maximizer problem**
 
-
+<br>
 
 **SI without robots**
 
@@ -46,6 +46,7 @@ Where else can SI change the cost structure and value of the sofa? We can imagin
 
 This last point is interesting: SI will be able to do things that no machine can do now, and do it better than humans. However, for many tasks, machines already perform very well, and the gain might actually be tiny. Imagine an SI that figures out how to build a printer that is 100X faster than current home printers. Unless it is sold at the same price, the sofa company probably won’t care too much about that gain in that part of their business. 
 
+<br>
 
 **SI with robots**
 
@@ -55,6 +56,7 @@ Factory labor will drop to practically zero. Logistics will drop a ton with auto
 
 But we can’t forget that embodied SI will also introduce new costs. For one, a factory full of robots will consume significantly more energy, so that plant overhead will increase.  And then, there is the cost of robots: real SI would have robots design and build themselves, so there will also be a constant drop in costs, but, like the sofa, there will be material, energy,  a marketplace for attention on those products, and margins that will make the cost not zero. So, that’s part of the cost of the Sofa. How much? It’s hard to tell, but I feel comfortable assuming 10% of the total cost. So, let’s go back and call it a 30-40% total cost reduction thanks to full-blown SI. 
 
+<br>
 
 **30%?!?**
 
@@ -68,6 +70,7 @@ But these solutions will require a ton of energy. And as we mentioned, the robot
 
 Let’s call this* the *New World Scenario*. And let's label the world where things somewhat stay as they are, but now jobs are done by computers and their robots, as the *Better World Scenario.*  
 
+<br>
 
 **The Better World Scenario**
 
@@ -96,7 +99,7 @@ The jobs, however, will have different: China's rise directly impacted jobs in W
 
 In countries with large domestic markets like the USA, SI might actually make it easier to reshore all of the supply chain, but this will have a marginal impact at best in employment, as a lot of the jobs the sofa company generates in the US could still be lost due to SI. 
 
-
+<br>
 
 **Was China really a robot?**
 
@@ -104,7 +107,7 @@ Here is an interesting twist:. There is a [big study](https://www.ncci.com/Artic
 
 China, robots, or both, the effect seems comparable. The policy implications, however, might be dramatically different.  
 
-
+<br>
 
 **The value of a sofa (and everything in it) in a Better World**
 
@@ -137,7 +140,7 @@ Then we have companies building SI.
 
 As more sofas are bought more often, the companies that can promote and sell these products to customers will also benefit from SI. From those companies,  some will leverage  SI sooner to run their business (in a similar fashion to who we explore SI role in sofa manufacturing), and those will win and get very big. 
 
-
+<br>
 
 **What about the people**
 
@@ -153,6 +156,7 @@ The challenge with SI is that it is unlikely to be complementary. For many jobs,
 
 So, what happens to jobs in SI? One option is to assume SI is like other technologies and that the future will be like the past. If that is the case, new industries will emerge, and the challenge will be to help people from past sectors to transition to new ones (this is harder than it sounds, and we have failed to do this well in the past). The other option here is that SI is different, and that there is a permanent loss of work. The challenge here is less what will people do, and more, how will people earn a living: work used to be the primary form of wealth distribution, but, as we can see, we have fewer hours of work to go around as it is, and with SI, this number will collapse.  
 
+<br>
 
 **SI, people, and policy**
 
@@ -167,6 +171,8 @@ There is a long history of successes and failures of industrial policy: protecti
 The general sentiment from the big tech companies is that, no matter how [much](https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ceo-satya-nadella-warns-employees-at-company-townhall-im-haunted-by-one-particular/articleshow/123983682.cms?utm_source) they [thought](https://www.ciodive.com/news/amazon-ceo-andy-jassy-AI-spend/745083/?utm_source) they needed to [invest](https://seekingalpha.com/article/4705978-alphabet-inc-goog-q2-2024-earnings-call-transcript?utm) in AI in a year or two, today they believe they [underinvested](https://www.wsj.com/tech/ai/sam-altman-seeks-trillions-of-dollars-to-reshape-business-of-chips-and-ai-89ab3db0?gaa_at=eafs&gaa_n=ASWzDAh3OCLpjr9eJUa2_yCJ_8UArapf_ZkOhYAhjZq_JvnkMbKuExW6l0-J&gaa_sig=UEOeEVsD0JbQsR9DdE7gj6f7T3TWc7qCEf1QsyVsHz2ekRjSVL5iocBDzAY02wXlB2FJX3r0uhNlUkzwA2JeVg%3D%3D&gaa_ts=68cc7e93&utm_source).  Massive growth will require boatloads of capital, massive Real Estate build-ups, chip production, and vast amounts of energy (Google and Microsoft are already at ~30tWh; top 4 tech cos probably are in the 10B/yr in electricity bills). This will require zoning, permitting, trade, and energy, which the government can help enable or block. If one thing can get in SI's way, it is the government. And, at this stage of the game, government and capital are the most powerful levers to move faster. 
 
 
+<br>
+
 **The COVID test-drive**
 
 The labor side of the equation is more complex. How would people live if they couldn’t work? 
@@ -177,6 +183,7 @@ But being unemployed is not a virus. Suppose we can trust humans to remain human
 
 Past solutions won’t work either: in the past, as people moved from farms to factories and from there to service jobs, we leveled up people's skills, getting everyone through high school, and then moving more and more people through college. But, there will be little to no jobs where any education can enable people to compete with SI.
 
+<br>
 
 **But really, what about the people?**
 
