@@ -6,8 +6,6 @@ summary: A look at SI from the perspective of a sofa.
 tags: people 
 ---
 
-**Computers, People, and Sofas. **
-
 What will the world look like once computers go superintelligent (SI)?  That is: if we assume that in the not-so-distant future, computers will think and act much better than humans, and do so autonomously, and in self-improving fashion, what then? 
 
 What will happen to all the places, products, and services around us, the companies and institutions that provide them, and the workers and customers that make it all happen? 
