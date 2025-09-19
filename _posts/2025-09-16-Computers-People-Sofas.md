@@ -68,7 +68,7 @@ We can imagine a world where SI conceives of an atomic printer or some biolab pr
 
 But these solutions will require a ton of energy. And as we mentioned, the robots and the computers will need tons of energy too. So, perhaps the SI finds a way to generate clean fusion energy at a low cost, or harness energy from the sun in non-obvious, highly scalable, and persistent ways, or maybe it fast-tracks a Dyson Sphere or some other galaxy-scale energy project.
 
-Let’s call this* the *New World Scenario*. And let's label the world where things somewhat stay as they are, but now jobs are done by computers and their robots, as the *Better World Scenario.*  
+Let’s call this the *New World Scenario*. And let's label the world where things somewhat stay as they are, but now jobs are done by computers and their robots, as the *Better World Scenario.*  
 
 <br>
 
